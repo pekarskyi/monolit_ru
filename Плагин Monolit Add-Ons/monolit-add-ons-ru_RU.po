@@ -1,0 +1,3893 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Monolit Add-Ons v1.9.7\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2020-03-20 13:38+0200\n"
+"Last-Translator: Николай Пекарский <dizer7@gmail.com>\n"
+"Language-Team: Николай Пекарский <dizer7@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"Language: ru\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ monolit-add-ons
+#: includes/class-ajax-handler.php:35 posttypes/cpt-plans.php:156
+msgid "Security checked!, Cheatn huh?"
+msgstr "Мошенник, да?"
+
+# @ monolit-add-ons
+#: includes/class-ajax-handler.php:51
+msgid "User registration feature is disabled."
+msgstr "Функция регистрации пользователей отключена."
+
+# @ monolit-add-ons
+#: includes/class-ajax-handler.php:59 includes/class-ajax-handler.php:122
+msgid "reCAPTCHA failed, please try again."
+msgstr "reCAPTCHA не удалось проверить, повторите попытку."
+
+# @ monolit-add-ons
+#: includes/class-ajax-handler.php:95
+msgid "Successfully registered."
+msgstr "Вы успешно зарегистрировались."
+
+# @ monolit-add-ons
+#: includes/class-ajax-handler.php:146
+msgid "Login success! The page will be reload."
+msgstr "Вы успешно вошли! Страница будет перезагружена."
+
+# @ monolit-add-ons
+#: includes/class-ajax-handler.php:160
+msgid "Sorry, your nonce did not verify."
+msgstr "Извините, ваш одноразовый код не потвержден."
+
+# @ monolit-add-ons
+#: includes/class-ajax-handler.php:183
+msgid "Almost finished. Please check your email and verify."
+msgstr "Практически завершенно. Проверьте свою электронную почту и подтвердите."
+
+# @ monolit-add-ons
+#: includes/class-ajax-handler.php:186
+msgid "Oops. Something went wrong!"
+msgstr "Произошла ошибка!"
+
+# @ monolit-add-ons
+#. translators: plugin header field 'Author'
+#: includes/class-blocks.php:43 monolit-add-ons.php:0
+msgid "CTHthemes"
+msgstr "CTHthemes"
+
+# @ monolit-add-ons
+#: includes/class-cpt.php:6 includes/class-cpt.php:23
+#: includes/cmb2-init.php:503 includes/vc_elements/blog_grid.php:33
+#: includes/vc_elements/blog_parallax.php:33
+#: includes/vc_elements/members_parallax.php:28
+#: includes/vc_elements/portfolios_masonry.php:27
+#: includes/vc_elements/portfolios_masonry.php:80
+#: includes/vc_elements/portfolios_parallax.php:34
+#: includes/vc_elements/services.php:29
+#: includes/vc_elements/testimonials.php:29
+#: includes/vc_elements/timelines.php:29 posttypes/cpt-footer.php:49
+#: posttypes/cpt-header.php:49 posttypes/cpt-members.php:78
+#: posttypes/cpt-plans.php:62 posttypes/cpt-portfolio.php:117
+#: posttypes/cpt-portfolio.php:137 posttypes/cpt-project.php:96
+#: posttypes/cpt-project.php:118 posttypes/cpt-service.php:65
+#: posttypes/cpt-testimonial.php:60 posttypes/cpt-timeline.php:65
+msgid "ID"
+msgstr "ID"
+
+# @ monolit-add-ons
+#: includes/class-cpt.php:87 includes/class-options.php:91
+msgid "Default title"
+msgstr "Заголовок по умолчанию"
+
+# @ monolit-add-ons
+#: includes/class-frontend-scripts.php:21
+msgid "Enter Your Keyword ..."
+msgstr "Поиск..."
+
+# @ monolit-add-ons
+#: includes/class-frontend-scripts.php:37
+msgid "Like"
+msgstr "Нравится"
+
+# @ monolit-add-ons
+#: includes/class-frontend-scripts.php:38
+msgid "Unlike"
+msgstr "Не нравится"
+
+# @ monolit-add-ons
+#: includes/class-options.php:203 includes/class-options.php:204
+msgid "Monolit Add-ons"
+msgstr "Дополнения Monolit"
+
+# @ monolit-add-ons
+#: includes/class-options.php:357
+msgid "Select Image"
+msgstr "Выберите изображение"
+
+# @ monolit-add-ons
+#: includes/class-options.php:357 posttypes/tax-meta/cth_taxonomy_fields.php:19
+msgid "Upload Image"
+msgstr "Загрузить изображение"
+
+# @ monolit-add-ons
+#: includes/class-options.php:357 posttypes/tax-meta/cth_taxonomy_fields.php:19
+msgid "Remove"
+msgstr "Удалить"
+
+# @ monolit-add-ons
+#: includes/class-options.php:530
+msgid "Add Field"
+msgstr "Добавить поле"
+
+# @ monolit-add-ons
+#: includes/class-options.php:570
+msgid "Add Widget"
+msgstr "Добавить виджет"
+
+# @ monolit-add-ons
+#: includes/class-options.php:593
+msgid "Currency code"
+msgstr "Код валюты"
+
+# @ monolit-add-ons
+#: includes/class-options.php:594
+msgid "Currency symbol"
+msgstr "Символ валюты"
+
+# @ monolit-add-ons
+#: includes/class-options.php:595
+msgid "Currency rate"
+msgstr "Курс валюты"
+
+# @ monolit-add-ons
+#: includes/class-options.php:596
+msgid "Current rate"
+msgstr "Текущая ставка"
+
+# @ monolit-add-ons
+#: includes/class-options.php:597
+msgid "Currency position"
+msgstr "Расположение символа валюты"
+
+# @ monolit-add-ons
+#: includes/class-options.php:598
+msgid "Number of decimal"
+msgstr "Количество знаков после запятой"
+
+# @ monolit-add-ons
+#: includes/class-options.php:599
+msgid "Thousand separator"
+msgstr "Разделитель тысячи"
+
+# @ monolit-add-ons
+#: includes/class-options.php:600
+msgid "Decimal separator"
+msgstr "Десятичный разделитель"
+
+# @ monolit-add-ons
+#: includes/class-options.php:619
+msgid "Add Currency"
+msgstr "Добавить валюту"
+
+# @ monolit-add-ons
+#: includes/class-options.php:803
+msgid "Monolit Add-Ons Settings"
+msgstr "Настройки дополнений Monolit"
+
+# @ monolit-add-ons
+#: includes/class-options.php:851
+msgid "General"
+msgstr "Общие"
+
+# @ monolit-add-ons
+#: includes/class-options.php:854
+msgid "Widgets"
+msgstr "Виджеты"
+
+# @ monolit-add-ons
+#: includes/cmb2-init.php:60
+msgid "Post Format Options"
+msgstr "Параметры формата записи"
+
+# @ monolit-add-ons
+#: includes/cmb2-init.php:70
+msgid "Post Slider Images"
+msgstr "Изображения слайдера записи"
+
+# @ monolit-add-ons
+#: includes/cmb2-init.php:71
+msgid "These images will be use in Gallery post format only."
+msgstr "Эти изображения будут использоваться только для формата записи Галерея."
+
+# @ monolit-add-ons
+#: includes/cmb2-init.php:86
+msgid "oEmbed for Post Format"
+msgstr "oEmbed для формата записи"
+
+# @ monolit-add-ons
+#: includes/cmb2-init.php:87
+msgid "Enter a youtube, twitter, or instagram URL. Supports services listed at <a href=\"http://codex.wordpress.org/Embeds\">http://codex.wordpress.org/Embeds</a>."
+msgstr "Укажите ссылки на youtube, twitter, или instagram. Сервисы которые поддерживаются, указаны здесь <a href=\"http://codex.wordpress.org/Embeds\">http://codex.wordpress.org/Embeds</a>."
+
+# @ monolit-add-ons
+#: includes/cmb2-init.php:99
+msgid "Post Layout Options"
+msgstr "Макет записи"
+
+# @ monolit-add-ons
+#: includes/cmb2-init.php:109 includes/cmb2-init.php:273
+#: includes/cmb2-init.php:316 includes/cmb2-init.php:654
+#: includes/cmb2-init.php:792 posttypes/tax-meta/category_metabox_fields.php:13
+#: posttypes/tax-meta/category_metabox_fields.php:66
+#: posttypes/tax-meta/portfolio_cat_metabox_fields.php:14
+#: posttypes/tax-meta/portfolio_cat_metabox_fields.php:59
+#: posttypes/tax-meta/tag_metabox_fields.php:13
+#: posttypes/tax-meta/tag_metabox_fields.php:67
+msgid "Fullwidth Navigation Menu"
+msgstr "Меню на всю ширину"
+
+# @ monolit-add-ons
+#: includes/cmb2-init.php:116 includes/cmb2-init.php:129
+#: includes/cmb2-init.php:142 includes/cmb2-init.php:155
+#: includes/cmb2-init.php:280 includes/cmb2-init.php:293
+#: includes/cmb2-init.php:323 includes/cmb2-init.php:336
+#: includes/cmb2-init.php:349 includes/cmb2-init.php:362
+#: includes/cmb2-init.php:405 includes/cmb2-init.php:433
+#: includes/cmb2-init.php:443 includes/cmb2-init.php:565
+#: includes/cmb2-init.php:578 includes/cmb2-init.php:661
+#: includes/cmb2-init.php:675 includes/cmb2-init.php:689
+#: includes/cmb2-init.php:702 includes/cmb2-init.php:800
+#: includes/cmb2-init.php:813 includes/cmb2-init.php:838
+#: includes/vc-elements.php:223 includes/vc-elements.php:243
+#: includes/vc-elements.php:262 includes/vc-elements.php:327
+#: includes/vc-elements.php:361 includes/vc-elements.php:379
+#: includes/vc-elements.php:397 includes/vc-elements.php:416
+#: includes/vc-elements.php:435 includes/vc-elements.php:454
+#: includes/vc-elements.php:473 includes/vc-elements.php:491
+#: includes/vc-elements.php:623 includes/vc_elements/blog_grid.php:70
+#: includes/vc_elements/blog_parallax.php:70
+#: includes/vc_elements/carousel_multiimgs.php:37
+#: includes/vc_elements/carousel_multiimgs.php:55
+#: includes/vc_elements/carousel_multiimgs.php:67
+#: includes/vc_elements/carousel_multiimgs.php:78
+#: includes/vc_elements/carousel_multiimgs.php:89
+#: includes/vc_elements/carousel_multiimgs.php:123
+#: includes/vc_elements/carousel_multiimgs.php:171
+#: includes/vc_elements/gmap.php:77 includes/vc_elements/home_landing.php:51
+#: includes/vc_elements/home_landing.php:63
+#: includes/vc_elements/home_slider.php:83
+#: includes/vc_elements/home_slider.php:102
+#: includes/vc_elements/home_slider.php:113
+#: includes/vc_elements/home_slider.php:147
+#: includes/vc_elements/home_vimeo.php:61
+#: includes/vc_elements/home_vimeo.php:72
+#: includes/vc_elements/home_youtube.php:64
+#: includes/vc_elements/home_youtube.php:75 includes/vc_elements/member.php:75
+#: includes/vc_elements/member.php:87
+#: includes/vc_elements/members_parallax.php:76
+#: includes/vc_elements/members_parallax.php:90
+#: includes/vc_elements/members_parallax.php:104
+#: includes/vc_elements/members_parallax.php:116
+#: includes/vc_elements/portfolio_nav.php:22
+#: includes/vc_elements/portfolio_nav.php:36
+#: includes/vc_elements/portfolios_masonry.php:53
+#: includes/vc_elements/portfolios_masonry.php:169
+#: includes/vc_elements/portfolios_masonry.php:183
+#: includes/vc_elements/portfolios_masonry.php:196
+#: includes/vc_elements/portfolios_masonry.php:210
+#: includes/vc_elements/portfolios_masonry.php:222
+#: includes/vc_elements/portfolios_parallax.php:83
+#: includes/vc_elements/portfolios_parallax.php:97
+#: includes/vc_elements/portfolios_parallax.php:110
+#: includes/vc_elements/portfolios_parallax.php:124
+#: includes/vc_elements/portfolios_parallax.php:146
+#: includes/vc_elements/testimonials.php:61
+#: includes/vc_elements/testimonials.php:81
+#: includes/vc_elements/testimonials.php:100
+#: includes/vc_elements/testimonials.php:112
+#: includes/vc_elements/testimonials.php:123
+#: includes/vc_elements/testimonials.php:134
+#: includes/vc_elements/testimonials.php:167
+#: posttypes/tax-meta/category_metabox_fields.php:16
+#: posttypes/tax-meta/category_metabox_fields.php:25
+#: posttypes/tax-meta/category_metabox_fields.php:35
+#: posttypes/tax-meta/category_metabox_fields.php:45
+#: posttypes/tax-meta/category_metabox_fields.php:69
+#: posttypes/tax-meta/category_metabox_fields.php:78
+#: posttypes/tax-meta/category_metabox_fields.php:89
+#: posttypes/tax-meta/category_metabox_fields.php:99
+#: posttypes/tax-meta/portfolio_cat_metabox_fields.php:17
+#: posttypes/tax-meta/portfolio_cat_metabox_fields.php:26
+#: posttypes/tax-meta/portfolio_cat_metabox_fields.php:37
+#: posttypes/tax-meta/portfolio_cat_metabox_fields.php:62
+#: posttypes/tax-meta/portfolio_cat_metabox_fields.php:71
+#: posttypes/tax-meta/portfolio_cat_metabox_fields.php:83
+#: posttypes/tax-meta/tag_metabox_fields.php:16
+#: posttypes/tax-meta/tag_metabox_fields.php:25
+#: posttypes/tax-meta/tag_metabox_fields.php:35
+#: posttypes/tax-meta/tag_metabox_fields.php:45
+#: posttypes/tax-meta/tag_metabox_fields.php:70
+#: posttypes/tax-meta/tag_metabox_fields.php:79
+#: posttypes/tax-meta/tag_metabox_fields.php:90
+#: posttypes/tax-meta/tag_metabox_fields.php:100
+msgid "No"
+msgstr "Нет"
+
+# @ monolit-add-ons
+#: includes/cmb2-init.php:117 includes/cmb2-init.php:128
+#: includes/cmb2-init.php:141 includes/cmb2-init.php:154
+#: includes/cmb2-init.php:281 includes/cmb2-init.php:294
+#: includes/cmb2-init.php:324 includes/cmb2-init.php:335
+#: includes/cmb2-init.php:348 includes/cmb2-init.php:361
+#: includes/cmb2-init.php:404 includes/cmb2-init.php:432
+#: includes/cmb2-init.php:442 includes/cmb2-init.php:566
+#: includes/cmb2-init.php:579 includes/cmb2-init.php:662
+#: includes/cmb2-init.php:674 includes/cmb2-init.php:688
+#: includes/cmb2-init.php:701 includes/cmb2-init.php:799
+#: includes/cmb2-init.php:812 includes/cmb2-init.php:837
+#: includes/vc-elements.php:222 includes/vc-elements.php:242
+#: includes/vc-elements.php:261 includes/vc-elements.php:328
+#: includes/vc-elements.php:362 includes/vc-elements.php:380
+#: includes/vc-elements.php:398 includes/vc-elements.php:415
+#: includes/vc-elements.php:434 includes/vc-elements.php:453
+#: includes/vc-elements.php:472 includes/vc-elements.php:492
+#: includes/vc-elements.php:622 includes/vc_elements/blog_grid.php:69
+#: includes/vc_elements/blog_parallax.php:69
+#: includes/vc_elements/carousel_multiimgs.php:38
+#: includes/vc_elements/carousel_multiimgs.php:56
+#: includes/vc_elements/carousel_multiimgs.php:66
+#: includes/vc_elements/carousel_multiimgs.php:79
+#: includes/vc_elements/carousel_multiimgs.php:90
+#: includes/vc_elements/carousel_multiimgs.php:122
+#: includes/vc_elements/carousel_multiimgs.php:170
+#: includes/vc_elements/gmap.php:78 includes/vc_elements/home_landing.php:50
+#: includes/vc_elements/home_landing.php:62
+#: includes/vc_elements/home_slider.php:84
+#: includes/vc_elements/home_slider.php:103
+#: includes/vc_elements/home_slider.php:114
+#: includes/vc_elements/home_slider.php:146
+#: includes/vc_elements/home_vimeo.php:60
+#: includes/vc_elements/home_vimeo.php:71
+#: includes/vc_elements/home_youtube.php:63
+#: includes/vc_elements/home_youtube.php:74 includes/vc_elements/member.php:76
+#: includes/vc_elements/member.php:88
+#: includes/vc_elements/members_parallax.php:75
+#: includes/vc_elements/members_parallax.php:91
+#: includes/vc_elements/members_parallax.php:103
+#: includes/vc_elements/members_parallax.php:115
+#: includes/vc_elements/portfolio_nav.php:23
+#: includes/vc_elements/portfolio_nav.php:37
+#: includes/vc_elements/portfolios_masonry.php:52
+#: includes/vc_elements/portfolios_masonry.php:168
+#: includes/vc_elements/portfolios_masonry.php:182
+#: includes/vc_elements/portfolios_masonry.php:197
+#: includes/vc_elements/portfolios_masonry.php:209
+#: includes/vc_elements/portfolios_masonry.php:221
+#: includes/vc_elements/portfolios_parallax.php:82
+#: includes/vc_elements/portfolios_parallax.php:96
+#: includes/vc_elements/portfolios_parallax.php:111
+#: includes/vc_elements/portfolios_parallax.php:123
+#: includes/vc_elements/portfolios_parallax.php:145
+#: includes/vc_elements/testimonials.php:62
+#: includes/vc_elements/testimonials.php:82
+#: includes/vc_elements/testimonials.php:99
+#: includes/vc_elements/testimonials.php:111
+#: includes/vc_elements/testimonials.php:124
+#: includes/vc_elements/testimonials.php:135
+#: includes/vc_elements/testimonials.php:168
+#: posttypes/tax-meta/category_metabox_fields.php:15
+#: posttypes/tax-meta/category_metabox_fields.php:24
+#: posttypes/tax-meta/category_metabox_fields.php:34
+#: posttypes/tax-meta/category_metabox_fields.php:44
+#: posttypes/tax-meta/category_metabox_fields.php:68
+#: posttypes/tax-meta/category_metabox_fields.php:77
+#: posttypes/tax-meta/category_metabox_fields.php:88
+#: posttypes/tax-meta/category_metabox_fields.php:98
+#: posttypes/tax-meta/portfolio_cat_metabox_fields.php:16
+#: posttypes/tax-meta/portfolio_cat_metabox_fields.php:25
+#: posttypes/tax-meta/portfolio_cat_metabox_fields.php:36
+#: posttypes/tax-meta/portfolio_cat_metabox_fields.php:61
+#: posttypes/tax-meta/portfolio_cat_metabox_fields.php:70
+#: posttypes/tax-meta/portfolio_cat_metabox_fields.php:82
+#: posttypes/tax-meta/tag_metabox_fields.php:15
+#: posttypes/tax-meta/tag_metabox_fields.php:24
+#: posttypes/tax-meta/tag_metabox_fields.php:34
+#: posttypes/tax-meta/tag_metabox_fields.php:44
+#: posttypes/tax-meta/tag_metabox_fields.php:69
+#: posttypes/tax-meta/tag_metabox_fields.php:78
+#: posttypes/tax-meta/tag_metabox_fields.php:89
+#: posttypes/tax-meta/tag_metabox_fields.php:99
+msgid "Yes"
+msgstr "Да"
+
+# @ monolit-add-ons
+#: includes/cmb2-init.php:122
+msgid "Show Post Header"
+msgstr "Показать шапку записи"
+
+# @ monolit-add-ons
+#: includes/cmb2-init.php:135
+msgid "Show Post Title"
+msgstr "Показывать заголовок записи"
+
+# @ monolit-add-ons
+#: includes/cmb2-init.php:148 includes/cmb2-init.php:695
+msgid "Show Breadcrumbs"
+msgstr "Отображать хлебные крошки"
+
+# @ monolit-add-ons
+#: includes/cmb2-init.php:161 includes/cmb2-init.php:368
+#: includes/cmb2-init.php:708
+msgid "Header Video Background"
+msgstr "Фоновое видео в шапке"
+
+# @ monolit-add-ons
+#: includes/cmb2-init.php:162 includes/cmb2-init.php:369
+#: includes/cmb2-init.php:709
+msgid "Please enter your Youtube video ID (ex: oDpSPNIozt8 ) here to use header background video feature or leave empty to use header background image selected bellow."
+msgstr "Пожалуйста, введите ID видео Youtube (пример: oDpSPNIozt8 ), чтобы использовать функцию фонового видео в шапке или оставьте пустым, чтобы использовать выбранное ниже фоновое изображение."
+
+# @ monolit-add-ons
+#: includes/cmb2-init.php:169 includes/cmb2-init.php:376
+#: includes/cmb2-init.php:716
+msgid "Header Image Background (Main background for Home Landing Page template)"
+msgstr "Фоновое изображение в шапке (основной фон для шаблона Home Landing Page)"
+
+# @ monolit-add-ons
+#: includes/cmb2-init.php:182
+msgid "Header Additional Info"
+msgstr "Дополнительная информация в шапке"
+
+# @ monolit-add-ons
+#: includes/cmb2-init.php:191 includes/cmb2-init.php:730
+msgid "Single Layout"
+msgstr "Макет отдельной записи"
+
+# @ monolit-add-ons
+#: includes/cmb2-init.php:192 includes/cmb2-init.php:731
+msgid "Choose display layout for this post"
+msgstr "Выберите макет для этой записи"
+
+# @ monolit-add-ons
+#: includes/cmb2-init.php:198 includes/cmb2-init.php:737
+msgid "Fullwidth"
+msgstr "На всю ширину"
+
+# @ monolit-add-ons
+#: includes/cmb2-init.php:199 includes/cmb2-init.php:738
+msgid "Right Sidebar"
+msgstr "Правый сайдбар"
+
+# @ monolit-add-ons
+#: includes/cmb2-init.php:200 includes/cmb2-init.php:739
+msgid "Left Sidebar"
+msgstr "Левый сайдбар"
+
+# @ monolit-add-ons
+#: includes/cmb2-init.php:212
+msgid "Portfolio List Options"
+msgstr "Настройки портфолио"
+
+# @ monolit-add-ons
+#: includes/cmb2-init.php:222
+msgid "Video Link"
+msgstr "Ссылка на видео"
+
+# @ monolit-add-ons
+#: includes/cmb2-init.php:223
+msgid "Enter a youtube, twitter, or instagram URL to display video as a thumbnail. Supports services listed at <a href=\"http://codex.wordpress.org/Embeds\" target=\"_blank\">http://codex.wordpress.org/Embeds</a>."
+msgstr "Введите URL-адрес youtube, twitter или instagram для отображения видео в виде миниатюры. Поддерживает сервисы, перечисленные в <a href=\"http://codex.wordpress.org/Embeds\" target=\"_blank\">http://codex.wordpress.org/Embeds</a>."
+
+# @ monolit-add-ons
+#: includes/cmb2-init.php:229
+msgid "Masonry Size"
+msgstr "Размер кладки"
+
+# @ monolit-add-ons
+#: includes/cmb2-init.php:230
+msgid "Choose the size of item thumbnail that show in portfolio masonry grid. You must select a Feature image for this portfolio item."
+msgstr "Выберите размер миниатюры элемента, которая отображается в кладке портфолио. Вам необходимо выбрать функцию изображения для этого элемента портфолио."
+
+# @ monolit-add-ons
+#: includes/cmb2-init.php:236
+msgid "Size One"
+msgstr "Размер Один"
+
+# @ monolit-add-ons
+#: includes/cmb2-init.php:238
+msgid "Size Two"
+msgstr "Размер Два"
+
+# @ monolit-add-ons
+#: includes/cmb2-init.php:239
+msgid "Size Three"
+msgstr "Размер Три"
+
+# @ monolit-add-ons
+#: includes/cmb2-init.php:245
+msgid "Popup Image or Video"
+msgstr "Изображение или видео для всплывающего окна"
+
+# @ monolit-add-ons
+#: includes/cmb2-init.php:246
+msgid "Select image or Youtube, Vimeo video link for popup. Leave empty for single portfolio page link."
+msgstr "Выберите изображение или ссылку на Youtube для всплывающего окна. Оставьте пустым для одной ссылки страницы портфолио."
+
+# @ monolit-add-ons
+#: includes/cmb2-init.php:263
+msgid "Portfolio Layout Options"
+msgstr "Настройки портфолио"
+
+# @ monolit-add-ons
+#: includes/cmb2-init.php:286 includes/cmb2-init.php:397
+#: posttypes/tax-meta/category_metabox_fields.php:42
+#: posttypes/tax-meta/category_metabox_fields.php:96
+#: posttypes/tax-meta/portfolio_cat_metabox_fields.php:34
+#: posttypes/tax-meta/portfolio_cat_metabox_fields.php:80
+#: posttypes/tax-meta/tag_metabox_fields.php:42
+#: posttypes/tax-meta/tag_metabox_fields.php:97
+msgid "Show Content Footer"
+msgstr "Показать содержимое футера"
+
+# @ monolit-add-ons
+#: includes/cmb2-init.php:306
+msgid "Page Layout Options"
+msgstr "Настройки макета страницы"
+
+# @ monolit-add-ons
+#: includes/cmb2-init.php:329
+msgid "Show Page Header"
+msgstr "Показать шапку страницы"
+
+# @ monolit-add-ons
+#: includes/cmb2-init.php:342
+msgid "Show Page Title"
+msgstr "Показывать заголовок страницы"
+
+# @ monolit-add-ons
+#: includes/cmb2-init.php:355
+msgid "Shows Breadcrumbs"
+msgstr "Показать хлебные крошки"
+
+# @ monolit-add-ons
+#: includes/cmb2-init.php:389
+msgid "Header Additional Info  (Main Title for Home Landing Page template)"
+msgstr "Дополнительная информация в шапке (главное название для шаблона Home Landing Page)"
+
+# @ monolit-add-ons
+#: includes/cmb2-init.php:417
+msgid "Portfolio Page Template Options"
+msgstr "Параметры шаблона страницы портфолио"
+
+# @ monolit-add-ons
+#: includes/cmb2-init.php:427
+msgid "Show Filter (for Portfolio template only)"
+msgstr "Показать фильтр (только для шаблона портфолио)"
+
+# @ monolit-add-ons
+#: includes/cmb2-init.php:437
+msgid "Show Counter"
+msgstr "Отображать счетчик"
+
+# @ monolit-add-ons
+#: includes/cmb2-init.php:448
+msgid "Show Info (for Portfolio Grid and Masonry templates)"
+msgstr "Показать информацию (для сетки портфолио и шаблонов кладки)"
+
+# @ monolit-add-ons
+#: includes/cmb2-init.php:455 includes/vc_elements/portfolios_masonry.php:136
+msgid "Show"
+msgstr "Показать"
+
+# @ monolit-add-ons
+#: includes/cmb2-init.php:456
+msgid "Show on hover"
+msgstr "Показать при наведении"
+
+# @ monolit-add-ons
+#: includes/cmb2-init.php:457 includes/vc_elements/portfolios_masonry.php:137
+#: includes/vc_elements/timelines.php:82 includes/vc_elements/timelines.php:105
+msgid "Hide"
+msgstr "Скрыть"
+
+# @ monolit-add-ons
+#: includes/cmb2-init.php:462
+msgid "Portfolio Categories (for Portfolio template only)"
+msgstr "Категории портфолио (только для шаблона портфолио)"
+
+# @ monolit-add-ons
+#: includes/cmb2-init.php:463
+msgid "Select portfolio categories to get items from. For Portfolio page templates only."
+msgstr "Выберите категории портфолио, чтобы получить элементы. Только для шаблонов страниц портфолио."
+
+# @ monolit-add-ons
+#: includes/cmb2-init.php:471
+msgid "Exclude Portfolio Items"
+msgstr "Исключить записи портфолио"
+
+# @ monolit-add-ons
+#: includes/cmb2-init.php:472
+msgid "Portfolio ids separated by comma. Include Portfolio Items field must blank."
+msgstr "ID портфолио через запятую."
+
+# @ monolit-add-ons
+#: includes/cmb2-init.php:479
+msgid "Include Portfolio Items"
+msgstr "Включить записи портфолио"
+
+# @ monolit-add-ons
+#: includes/cmb2-init.php:480
+msgid "Portfolio ids separated by comma. Exclude Portfolio Items field must blank."
+msgstr "ID записей портфолио через запятую."
+
+# @ monolit-add-ons
+#: includes/cmb2-init.php:487
+msgid "Items per page (-1 for all)"
+msgstr "Элементов на странице (-1 для всех)"
+
+# @ monolit-add-ons
+#: includes/cmb2-init.php:495
+msgid "Order By"
+msgstr "Сортировка по"
+
+# @ monolit-add-ons
+#: includes/cmb2-init.php:502 includes/vc_elements/blog_grid.php:32
+#: includes/vc_elements/blog_parallax.php:32
+#: includes/vc_elements/members_parallax.php:27
+#: includes/vc_elements/portfolios_masonry.php:79
+#: includes/vc_elements/portfolios_parallax.php:33
+#: includes/vc_elements/services.php:28
+#: includes/vc_elements/testimonials.php:28
+#: includes/vc_elements/timelines.php:28
+msgid "Date"
+msgstr "Дата"
+
+# @ monolit-add-ons
+#: includes/cmb2-init.php:504 includes/vc_elements/blog_grid.php:34
+#: includes/vc_elements/blog_parallax.php:34
+#: includes/vc_elements/members_parallax.php:29
+#: includes/vc_elements/portfolios_masonry.php:81
+#: includes/vc_elements/portfolios_parallax.php:35
+#: includes/vc_elements/services.php:30
+#: includes/vc_elements/testimonials.php:30
+#: includes/vc_elements/timelines.php:30
+msgid "Author"
+msgstr "Автор"
+
+# @ monolit-add-ons
+#: includes/cmb2-init.php:505 includes/vc_elements/portfolios_masonry.php:26
+msgid "Name"
+msgstr "Название"
+
+# @ monolit-add-ons
+#: includes/cmb2-init.php:506 includes/vc_elements/blog_grid.php:35
+#: includes/vc_elements/blog_parallax.php:35
+#: includes/vc_elements/home_landing.php:24
+#: includes/vc_elements/members_parallax.php:30
+#: includes/vc_elements/portfolios_masonry.php:82
+#: includes/vc_elements/portfolios_parallax.php:36
+#: includes/vc_elements/services.php:31
+#: includes/vc_elements/testimonials.php:31
+#: includes/vc_elements/timelines.php:31
+msgid "Title"
+msgstr "Заголовок"
+
+# @ monolit-add-ons
+#: includes/cmb2-init.php:507 includes/vc_elements/blog_grid.php:36
+#: includes/vc_elements/blog_parallax.php:36
+#: includes/vc_elements/members_parallax.php:31
+#: includes/vc_elements/portfolios_masonry.php:83
+#: includes/vc_elements/portfolios_parallax.php:37
+#: includes/vc_elements/services.php:32
+#: includes/vc_elements/testimonials.php:32
+#: includes/vc_elements/timelines.php:32
+msgid "Modified"
+msgstr "Дата изменения"
+
+# @ monolit-add-ons
+#: includes/cmb2-init.php:508
+msgid "Random"
+msgstr "Случайно"
+
+# @ monolit-add-ons
+#: includes/cmb2-init.php:514 includes/vc_elements/services.php:40
+#: includes/vc_elements/services.php:47
+#: includes/vc_elements/testimonials.php:40
+#: includes/vc_elements/testimonials.php:47
+#: includes/vc_elements/timelines.php:40 includes/vc_elements/timelines.php:47
+msgid "Order"
+msgstr "Порядок"
+
+# @ monolit-add-ons
+#: includes/cmb2-init.php:521 includes/vc_elements/blog_grid.php:48
+#: includes/vc_elements/blog_parallax.php:48
+#: includes/vc_elements/members_parallax.php:43
+#: includes/vc_elements/portfolios_masonry.php:41
+#: includes/vc_elements/portfolios_masonry.php:95
+#: includes/vc_elements/portfolios_parallax.php:49
+#: includes/vc_elements/services.php:43
+#: includes/vc_elements/testimonials.php:43
+#: includes/vc_elements/timelines.php:43
+msgid "Descending"
+msgstr "По убыванию"
+
+# @ monolit-add-ons
+#: includes/cmb2-init.php:522 includes/vc_elements/blog_grid.php:47
+#: includes/vc_elements/blog_parallax.php:47
+#: includes/vc_elements/members_parallax.php:42
+#: includes/vc_elements/portfolios_masonry.php:40
+#: includes/vc_elements/portfolios_masonry.php:94
+#: includes/vc_elements/portfolios_parallax.php:48
+#: includes/vc_elements/services.php:44
+#: includes/vc_elements/testimonials.php:44
+#: includes/vc_elements/timelines.php:44
+msgid "Ascending"
+msgstr "По возрастанию"
+
+# @ monolit-add-ons
+#: includes/cmb2-init.php:527
+msgid "Columns Layout (for Portfolio Grid and Masonry templates)"
+msgstr "Макет колонок (Сетка или кладка портфолио)"
+
+# @ monolit-add-ons
+#: includes/cmb2-init.php:535 includes/vc_elements/images_masonry.php:33
+#: includes/vc_elements/partners.php:59
+#: includes/vc_elements/portfolios_masonry.php:123
+msgid "Five Columns"
+msgstr "5 колонок"
+
+# @ monolit-add-ons
+#: includes/cmb2-init.php:536 includes/vc_elements/images_masonry.php:32
+#: includes/vc_elements/partners.php:58
+#: includes/vc_elements/portfolios_masonry.php:122
+#: includes/vc_elements/services.php:75
+msgid "Four Columns"
+msgstr "4 колонки"
+
+# @ monolit-add-ons
+#: includes/cmb2-init.php:537 includes/vc_elements/images_masonry.php:31
+#: includes/vc_elements/partners.php:57
+#: includes/vc_elements/portfolios_masonry.php:121
+#: includes/vc_elements/services.php:73
+msgid "Three Columns"
+msgstr "3 колонки"
+
+# @ monolit-add-ons
+#: includes/cmb2-init.php:538 includes/vc_elements/images_masonry.php:30
+#: includes/vc_elements/partners.php:56
+#: includes/vc_elements/portfolios_masonry.php:120
+#: includes/vc_elements/services.php:71
+msgid "Two Columns"
+msgstr "2 колонки"
+
+# @ monolit-add-ons
+#: includes/cmb2-init.php:539 includes/vc_elements/images_masonry.php:29
+#: includes/vc_elements/partners.php:55
+#: includes/vc_elements/portfolios_masonry.php:119
+#: includes/vc_elements/services.php:77
+msgid "One Column"
+msgstr "1 колонка"
+
+# @ monolit-add-ons
+#: includes/cmb2-init.php:544 includes/vc_elements/images_masonry.php:42
+#: includes/vc_elements/portfolios_masonry.php:147
+msgid "Spacing"
+msgstr "Интервал"
+
+# @ monolit-add-ons
+#: includes/cmb2-init.php:551 includes/vc_elements/images_masonry.php:45
+#: includes/vc_elements/portfolios_masonry.php:150
+msgid "Small"
+msgstr "Небольшой"
+
+# @ monolit-add-ons
+#: includes/cmb2-init.php:552 includes/vc_elements/images_masonry.php:46
+#: includes/vc_elements/portfolios_masonry.php:151
+msgid "Big"
+msgstr "Большой"
+
+# @ monolit-add-ons
+#: includes/cmb2-init.php:553 includes/core-functions.php:171
+#: includes/core-functions.php:191 includes/vc-elements.php:15
+#: includes/vc_elements/images_masonry.php:47
+#: includes/vc_elements/portfolios_masonry.php:30
+#: includes/vc_elements/portfolios_masonry.php:152
+msgid "None"
+msgstr "Отсутствует"
+
+# @ monolit-add-ons
+#: includes/cmb2-init.php:558
+msgid "Enable Image Gallery on Portfolio Grid"
+msgstr "Включить галерею изображений для сетки портфолио"
+
+# @ monolit-add-ons
+#: includes/cmb2-init.php:571
+msgid "Disbale Image Overlay Effect"
+msgstr "Отключить эффект наложения на изображение"
+
+# @ monolit-add-ons
+#: includes/cmb2-init.php:592 includes/cmb2-init.php:602
+msgid "Scroll Navigation Menu"
+msgstr "Прокручиваемое меню"
+
+# @ monolit-add-ons
+#: includes/cmb2-init.php:619
+msgid "Timeline Options"
+msgstr "Параметры хронологии"
+
+# @ monolit-add-ons
+#: includes/cmb2-init.php:629
+msgid "Addition Info"
+msgstr "Дополнительная информация"
+
+# @ monolit-add-ons
+#: includes/cmb2-init.php:630
+msgid "This info will display on the left side, bellow timeline title"
+msgstr "Эта информация будет отображаться с левой стороны, ниже названия хронологии"
+
+# @ monolit-add-ons
+#: includes/cmb2-init.php:644
+msgid "Member Layout Options"
+msgstr "Параметры макета сотрудника"
+
+# @ monolit-add-ons
+#: includes/cmb2-init.php:667
+msgid "Show Member Header"
+msgstr "Показать шапку сотрудника"
+
+# @ monolit-add-ons
+#: includes/cmb2-init.php:682
+msgid "Show Member Title"
+msgstr "Показать имя сотрудника"
+
+# @ monolit-add-ons
+#: includes/cmb2-init.php:748
+msgid "For Monolit Theme Options"
+msgstr "Для настроек темы Monolit"
+
+# @ monolit-add-ons
+#: includes/cmb2-init.php:758
+msgid "Header Image Background"
+msgstr "Фоновое изображение в шапке"
+
+# @ monolit-add-ons
+#: includes/cmb2-init.php:774
+msgid "User Profile Metabox"
+msgstr "Мета-данные профиля пользователя"
+
+# @ monolit-add-ons
+#: includes/cmb2-init.php:784
+msgid "Extra Info"
+msgstr "Дополнительная информация"
+
+# @ monolit-add-ons
+#: includes/cmb2-init.php:806
+msgid "Show User Header"
+msgstr "Показать пользовательскую шапку"
+
+# @ monolit-add-ons
+#: includes/cmb2-init.php:819 posttypes/tax-meta/category_metabox_fields.php:29
+#: posttypes/tax-meta/category_metabox_fields.php:83
+#: posttypes/tax-meta/portfolio_cat_metabox_fields.php:30
+#: posttypes/tax-meta/portfolio_cat_metabox_fields.php:76
+#: posttypes/tax-meta/product_cat_metabox_fields.php:12
+#: posttypes/tax-meta/product_cat_metabox_fields.php:29
+#: posttypes/tax-meta/product_tag_metabox_fields.php:12
+#: posttypes/tax-meta/product_tag_metabox_fields.php:29
+#: posttypes/tax-meta/tag_metabox_fields.php:29
+#: posttypes/tax-meta/tag_metabox_fields.php:84
+msgid "Header Background Image"
+msgstr "Фоновое изображение шапки"
+
+# @ monolit-add-ons
+#: includes/cmb2-init.php:831
+msgid "Show User Info Block"
+msgstr "Показать блок информации о пользователе"
+
+# @ monolit-add-ons
+#: includes/cmb2-init.php:846
+msgid "Facebook URL"
+msgstr "Facebook URL"
+
+# @ monolit-add-ons
+#: includes/cmb2-init.php:854
+msgid "Twitter URL"
+msgstr "Twitter URL"
+
+# @ monolit-add-ons
+#: includes/cmb2-init.php:861
+msgid "Google+ URL"
+msgstr "Google+ URL"
+
+# @ monolit-add-ons
+#: includes/cmb2-init.php:868
+msgid "Linkedin URL"
+msgstr "Linkedin URL"
+
+# @ monolit-add-ons
+#: includes/cmb2-init.php:876
+msgid "User Field"
+msgstr "Пользовательское поле"
+
+# @ monolit-add-ons
+#: includes/core-functions.php:170 includes/core-functions.php:190
+#: includes/core-functions.php:275
+msgid "Global"
+msgstr "Глобально"
+
+# @ monolit-add-ons
+#: includes/core-functions.php:276
+msgid "Skin 1"
+msgstr "Скин 1"
+
+# @ monolit-add-ons
+#: includes/core-functions.php:277
+msgid "Skin 1 - Color"
+msgstr "Скин 1 - Цвет"
+
+# @ monolit-add-ons
+#: includes/core-functions.php:278
+msgid "Skin 2"
+msgstr "Скин 2"
+
+# @ monolit-add-ons
+#: includes/core-functions.php:279
+msgid "Skin 2 - Color"
+msgstr "Скин 2 - Цвет"
+
+# @ monolit-add-ons
+#: includes/core-functions.php:280
+msgid "Skin 3"
+msgstr "Скин 3"
+
+# @ monolit-add-ons
+#: includes/core-functions.php:281
+msgid "Skin 3 - Color"
+msgstr "Скин 3 - Цвет"
+
+# @ monolit-add-ons
+#: includes/core-functions.php:282
+msgid "Skin 4"
+msgstr "Скин 4"
+
+# @ monolit-add-ons
+#: includes/core-functions.php:283
+msgid "Skin 4 - Color"
+msgstr "Скин 4 - Цвет"
+
+# @ monolit-add-ons
+#: includes/core-functions.php:325
+msgid "Facebook"
+msgstr "Facebook"
+
+# @ monolit-add-ons
+#: includes/core-functions.php:326
+msgid "Twitter"
+msgstr "Twitter"
+
+# @ monolit-add-ons
+#: includes/core-functions.php:327
+msgid "Youtube"
+msgstr "Youtube"
+
+# @ monolit-add-ons
+#: includes/core-functions.php:328
+msgid "Vimeo"
+msgstr "Vimeo"
+
+# @ monolit-add-ons
+#: includes/core-functions.php:329
+msgid "Instagram"
+msgstr "Instagram"
+
+# @ monolit-add-ons
+#: includes/core-functions.php:330
+msgid "Vkontakte"
+msgstr "Vkontakte"
+
+# @ monolit-add-ons
+#: includes/core-functions.php:331
+msgid "Reddit"
+msgstr "Reddit"
+
+# @ monolit-add-ons
+#: includes/core-functions.php:332
+msgid "Pinterest"
+msgstr "Pinterest"
+
+# @ monolit-add-ons
+#: includes/core-functions.php:333
+msgid "Vine Camera"
+msgstr "Vine камера"
+
+# @ monolit-add-ons
+#: includes/core-functions.php:334
+msgid "Tumblr"
+msgstr "Tumblr"
+
+# @ monolit-add-ons
+#: includes/core-functions.php:335
+msgid "Flickr"
+msgstr "Flickr"
+
+# @ monolit-add-ons
+#: includes/core-functions.php:336
+msgid "Google+"
+msgstr "Google+"
+
+# @ monolit-add-ons
+#: includes/core-functions.php:337
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+# @ monolit-add-ons
+#: includes/core-functions.php:338
+msgid "Whatsapp"
+msgstr "Whatsapp"
+
+# @ monolit-add-ons
+#: includes/core-functions.php:339
+msgid "Meetup"
+msgstr "Meetup"
+
+# @ monolit-add-ons
+#: includes/core-functions.php:340
+msgid "Custom"
+msgstr "Произвольный"
+
+# @ monolit-add-ons
+#: includes/core-functions.php:353
+msgid "SHARE: "
+msgstr "ПОДЕЛИТЬСЯ: "
+
+# @ monolit-add-ons
+#: includes/option_values.php:12
+msgid "Style Options"
+msgstr "Параметры стиля"
+
+# @ monolit-add-ons
+#: includes/option_values.php:19
+msgid "Default Header Style"
+msgstr "Стиль шапки по умолчанию"
+
+# @ monolit-add-ons
+#: includes/option_values.php:28
+msgid "Default Footer Style"
+msgstr "Стиль футера по умолчанию"
+
+# @ monolit-add-ons
+#: includes/option_values.php:46
+msgid "Mailchimp Section"
+msgstr "Раздел Mailchimp"
+
+# @ monolit-add-ons
+#: includes/option_values.php:53
+msgid "Mailchimp API key"
+msgstr "Ключ MailChimp API"
+
+# @ monolit-add-ons
+#: includes/option_values.php:54 includes/option_values.php:149
+msgid "Find your API key"
+msgstr "Найдите свой ключ API"
+
+# @ monolit-add-ons
+#: includes/option_values.php:60
+msgid "Mailchimp List ID"
+msgstr "ID рассылки MailChimp"
+
+# @ monolit-add-ons
+#: includes/option_values.php:61
+msgid "Find your list ID"
+msgstr "Найти ID рассылку"
+
+# @ monolit-add-ons
+#: includes/option_values.php:68
+msgid "Subscribe Shortcode"
+msgstr "Шорткод формы подписки"
+
+# @ monolit-add-ons
+#: includes/option_values.php:69
+msgid ""
+"Use the <code><strong>[monolit_subscribe]</strong></code> shortcode  to display subscribe form inside a post, page or text widget.\n"
+"<br />Available Variables:<br />\n"
+"<code><strong>message</strong></code> (Optional) - The message above subscription form.<br />\n"
+"<code><strong>placeholder</strong></code> (Optional) - The form placeholder text.<br />\n"
+"<code><strong>button</strong></code> (Optional) - The submit button text.<br />\n"
+"<code><strong>list_id</strong></code> (Optional) - List ID. If you want user subscribe to a different list from the option above.<br />\n"
+"<code><strong>class</strong></code> (Optional) - Your extraclass used to style the form.<br /><br />\n"
+"Example: <code><strong>[monolit_subscribe list_id=\"b02fb5f96f\" class=\"your_class_here\"]</strong></code>"
+msgstr ""
+"Используйте шорткод <code><strong>[monolit_subscribe]</strong></code> для отображения формы подписки внутри записи, страницы или текстового виджета.\n"
+"<br />Доступные переменные:<br />\n"
+"<code><strong>message</strong></code>(Необязательно) - Сообщение выше формы подписки.<br />\n"
+"<code><strong>placeholder</strong></code>(Необязательно) - Текст заполнителя формы.<br />\n"
+"<code><strong>button</strong></code>(Необязательно) - Текст кнопки отправки.<br />\n"
+"<code><strong>list_id</strong></code>(Необязательно) - Идентификатор списка. Если требуется, чтобы пользователь подписался на список, отличный от приведенного выше.<br />\n"
+"<code><strong>class</strong></code>(Необязательно) - Ваш дополнительный класс используется для стиля формы.<br /><br />Пример:<code><strong>[monolit_subscribe list_id=\"b02fb5f96f\" class=\"your_class_here\"]</strong></code>"
+
+# @ monolit-add-ons
+#: includes/option_values.php:83
+msgid "Twitter Feeds Section"
+msgstr "Лента Twitter"
+
+# @ monolit-add-ons
+#: includes/option_values.php:85
+msgid "Visit "
+msgstr "Посетить "
+
+# @ monolit-add-ons
+#: includes/option_values.php:86
+msgid "Twitter's Application Management"
+msgstr "Управление приложением Twitter"
+
+# @ monolit-add-ons
+#: includes/option_values.php:87
+msgid "page, sign in with your account, click on Create a new application and create your own keys if you haven't one.<br /> Fill all the fields bellow with those keys."
+msgstr "страница, войти с помощью вашей учетной записи, нажмите на Создать новое приложение и создайте свои собственные ключи, если у вас нет.<br>Заполните все поля ниже этими ключами."
+
+# @ monolit-add-ons
+#: includes/option_values.php:96
+msgid "Consumer Key"
+msgstr "Consumer Key"
+
+# @ monolit-add-ons
+#: includes/option_values.php:103
+msgid "Consumer Secret"
+msgstr "Consumer Secret"
+
+# @ monolit-add-ons
+#: includes/option_values.php:110
+msgid "Access Token"
+msgstr "Access Token"
+
+# @ monolit-add-ons
+#: includes/option_values.php:117 includes/option_values.php:124
+msgid "Access Token Secret"
+msgstr "Access Token Secret"
+
+# @ monolit-add-ons
+#: includes/option_values.php:125
+msgid ""
+"You can use <code><strong>monolit Twitter Feed</strong></code> widget or  <code><strong>[monolit_tweets]</strong></code> shortcode  to display tweets inside a post, page or text widget.\n"
+"<br />Available Variables:<br />\n"
+"<code><strong>username</strong></code> (Optional) - Option to load tweets from another account. Leave this empty to load from your own.<br />\n"
+"<code><strong>list</strong></code> (Optional) - List name to load tweets from. If you define list name you also must define the <strong>username</strong> of the list owner.<br />\n"
+"<code><strong>hashtag</strong></code> (Optional) - Option to load tweets with a specific hashtag.<br />\n"
+"<code><strong>count</strong></code> (Required) - Number of tweets you want to display.<br />\n"
+"<code><strong>list_ticker</strong></code> (Optional) - Display tweets as a list ticker?. Values: <strong>yes</strong> or <strong>no</strong><br />\n"
+"<code><strong>follow_url</strong></code> (Optional) - Follow us link.<br />\n"
+"<code><strong>extraclass</strong></code> (Optional) - Your extraclass used to style the form.<br /><br />\n"
+"Example: <code><strong>[monolit_tweets count=\"3\" username=\"CTHthemes\" list_ticker=\"no\" extraclass=\"your_class_here\"]</strong></code>"
+msgstr ""
+"Вы можете использовать виджет <code><strong>Лента Twitter</strong></code> или шорткод <code><strong>[monolit_tweets]</strong></code> для отображения твитов внутри записи, страницы или текстового виджета.\n"
+"<br />Доступные переменные:<br />\n"
+"<code><strong>username</strong></code>(Необязательно) - Загрузка твитов с другой учетной записи. Оставьте это пустым для загрузки ваших собственных.<br />\n"
+"<code><strong>list</strong></code>(Необязательно) - Название списка для загрузки твитов. Если вы определяете имя списка, вы также должны определить <strong>имя пользователя</strong> владельца списка.<br />\n"
+"<code><strong>hashtag</strong></code>(Необязательно) - Загрузка твитов по хэштегу.<br />\n"
+"<code><strong>count</strong></code>(Обязательно) - Количество твитов, которые вы хотите отобразить.<br />\n"
+"<code><strong>list_ticker</strong></code>(Необязательно) - Отображение твитов в виде тиккера списка? Значения: <strong>да</strong> или <strong>нет</strong><br />\n"
+"<code><strong>follow_url</strong></code>(Необязательно) - Следовать по ссылке.<br />\n"
+"<code><strong>extraclass</strong></code>(Необязательно) - Ваш дополнительный класс используется для стиля формы.<br /><br />Пример:<code><strong>[monolit_tweets count=\"3\" username=\"CTHthemes\" list_ticker=\"no\" extraclass=\"your_class_here\"]</strong></code>"
+
+# @ monolit-add-ons
+#: includes/option_values.php:141
+msgid "Weather Section"
+msgstr "Погода"
+
+# @ monolit-add-ons
+#: includes/option_values.php:148
+msgid "Weather API key"
+msgstr "Ключ Weather API"
+
+# @ monolit-add-ons
+#: includes/option_values.php:155 includes/option_values.php:161
+msgid "Socials Share"
+msgstr "Поделиться в соцсетях"
+
+# @ monolit-add-ons
+#: includes/option_values.php:162
+msgid "Enter your social share names separated by a comma.<br /> List bellow are available names:<strong><br /> facebook,twitter,linkedin,in1,tumblr,digg,googleplus,reddit,pinterest,stumbleupon,email,vk</strong>"
+msgstr "Укажите названия социальных сетей через запятую.<br>Список доступных имен ниже:<strong><br>facebook,twitter,linkedin,in1,tumblr,digg,googleplus,reddit,pinterest,stumbleupon,email,vk</strong>"
+
+# @ monolit-add-ons
+#: includes/option_values.php:177
+msgid "Status"
+msgstr "Статус"
+
+# @ monolit-add-ons
+#: includes/option_values.php:184
+msgid "Mode"
+msgstr "Режим"
+
+# @ monolit-add-ons
+#: includes/option_values.php:188
+msgid "Disable"
+msgstr "Отключить"
+
+# @ monolit-add-ons
+#: includes/option_values.php:190
+msgid "Coming Soon"
+msgstr "Совсем скоро"
+
+# @ monolit-add-ons
+#: includes/option_values.php:226
+msgid "Coming Soon Options"
+msgstr "Параметры Совсем скоро"
+
+# @ monolit-add-ons
+#: includes/option_values.php:232
+msgid "Message"
+msgstr "Сообщение"
+
+# @ monolit-add-ons
+#: includes/option_values.php:243
+msgid "Owner Email"
+msgstr "Электронная почта владельца"
+
+# @ monolit-add-ons
+#: includes/option_values.php:254
+msgid "Coming Soon Date"
+msgstr "Дата Совсем скоро"
+
+# @ monolit-add-ons
+#: includes/option_values.php:258
+msgid "The date should be DD/MM/YYYY format. Ex: 09/12/2021"
+msgstr "Дата должна быть в формате DD/MM/YYYY. Напр: 09/12/2021"
+
+# @ monolit-add-ons
+#: includes/option_values.php:264
+msgid "Coming Soon Time"
+msgstr "Время Совсем скоро"
+
+# @ monolit-add-ons
+#: includes/option_values.php:268
+msgid "The time should be hh:mm:ss format. Ex: 10:30:00"
+msgstr "Время должно быть в формате hh:mm:ss. Пример: 10:30:00"
+
+# @ monolit-add-ons
+#: includes/option_values.php:275
+msgid "Timezone Offset"
+msgstr "Смещение часового пояса"
+
+# @ monolit-add-ons
+#: includes/option_values.php:282
+msgid "Timezone offset value from UTC"
+msgstr "Смещение часового пояса значение от UTC"
+
+# @ monolit-add-ons
+#: includes/option_values.php:288
+msgid "Message After"
+msgstr "Сообщение после"
+
+# @ monolit-add-ons
+#: includes/option_values.php:300
+msgid "Background"
+msgstr "Фон"
+
+# @ monolit-add-ons
+#: includes/vc-elements.php:16
+msgid "BounceIn"
+msgstr "BounceIn"
+
+# @ monolit-add-ons
+#: includes/vc-elements.php:17
+msgid "BounceInUp"
+msgstr "BounceInUp"
+
+# @ monolit-add-ons
+#: includes/vc-elements.php:18
+msgid "BounceInDown"
+msgstr "BounceInDown"
+
+# @ monolit-add-ons
+#: includes/vc-elements.php:19
+msgid "BounceInLeft"
+msgstr "BounceInLeft"
+
+# @ monolit-add-ons
+#: includes/vc-elements.php:20
+msgid "BounceInRight"
+msgstr "BounceInRight"
+
+# @ monolit-add-ons
+#: includes/vc-elements.php:22
+msgid "FadeIn"
+msgstr "FadeIn"
+
+# @ monolit-add-ons
+#: includes/vc-elements.php:23
+msgid "FadeInUp"
+msgstr "FadeInUp"
+
+# @ monolit-add-ons
+#: includes/vc-elements.php:24
+msgid "FadeInDown"
+msgstr "FadeInDown"
+
+# @ monolit-add-ons
+#: includes/vc-elements.php:25
+msgid "FadeInLeft"
+msgstr "FadeInLeft"
+
+# @ monolit-add-ons
+#: includes/vc-elements.php:26
+msgid "FadeInRight"
+msgstr "FadeInRight"
+
+# @ monolit-add-ons
+#: includes/vc-elements.php:28
+msgid "ZoomIn"
+msgstr "ZoomIn"
+
+# @ monolit-add-ons
+#: includes/vc-elements.php:29
+msgid "ZoomInUp"
+msgstr "ZoomInUp"
+
+# @ monolit-add-ons
+#: includes/vc-elements.php:30
+msgid "ZoomInDown"
+msgstr "ZoomInDown"
+
+# @ monolit-add-ons
+#: includes/vc-elements.php:31
+msgid "ZoomInLeft"
+msgstr "ZoomInLeft"
+
+# @ monolit-add-ons
+#: includes/vc-elements.php:32
+msgid "ZoomInRight"
+msgstr "ZoomInRight"
+
+# @ monolit-add-ons
+#: includes/vc-elements.php:34
+msgid "RotateIn"
+msgstr "RotateIn"
+
+# @ monolit-add-ons
+#: includes/vc-elements.php:35
+msgid "RotateInDownLeft"
+msgstr "RotateInDownLeft"
+
+# @ monolit-add-ons
+#: includes/vc-elements.php:36
+msgid "RotateInDownRight"
+msgstr "RotateInDownRight"
+
+# @ monolit-add-ons
+#: includes/vc-elements.php:37
+msgid "RotateInUpLeft"
+msgstr "RotateInUpLeft"
+
+# @ monolit-add-ons
+#: includes/vc-elements.php:38
+msgid "RotateInUpRight"
+msgstr "RotateInUpRight"
+
+# @ monolit-add-ons
+#: includes/vc-elements.php:90
+msgid "Monolit Predefined Section Layout"
+msgstr "Предопределенные макеты раздела"
+
+# @ monolit-add-ons
+#: includes/vc-elements.php:93
+msgid "Visual Composer - Default"
+msgstr "Visual Composer - По умолчанию"
+
+# @ monolit-add-ons
+#: includes/vc-elements.php:94
+msgid "Monolit Fullheight Section"
+msgstr "Раздел на всю высоту"
+
+# @ monolit-add-ons
+#: includes/vc-elements.php:95
+msgid "Monolit Page Section"
+msgstr "Раздел страницы"
+
+# @ monolit-add-ons
+#: includes/vc-elements.php:96
+msgid "Monolit Page Section Dark"
+msgstr "Темный раздел страницы"
+
+# @ monolit-add-ons
+#: includes/vc-elements.php:98
+msgid "Monolit Parallax Section - Portfolio Header"
+msgstr "Параллакс раздела - Шапка портфолио"
+
+# @ monolit-add-ons
+#: includes/vc-elements.php:99
+msgid "Monolit Portfolio Horizontal"
+msgstr "Горизонтальное портфолио"
+
+# @ monolit-add-ons
+#: includes/vc-elements.php:100
+msgid "Monolit Portfolio Horizontal 3D"
+msgstr "Горизонтальное портфолио 3D"
+
+# @ monolit-add-ons
+#: includes/vc-elements.php:101
+msgid "Monolit Portfolio Horizontal Style2"
+msgstr "Горизонтальное портфолио Стиль 2"
+
+# @ monolit-add-ons
+#: includes/vc-elements.php:102
+msgid "Monolit Portfolio Fullscreen Slider"
+msgstr "Полноэкранный слайдер портфолио"
+
+# @ monolit-add-ons
+#: includes/vc-elements.php:103
+msgid "Monolit Portfolio Fullscreen Video"
+msgstr "Полноэкранное видео портфолио"
+
+# @ monolit-add-ons
+#: includes/vc-elements.php:104
+msgid "Monolit Portfolio Fullscreen Vimeo Video"
+msgstr "Полноэкранное видео Vimeo для портфолио"
+
+# @ monolit-add-ons
+#: includes/vc-elements.php:106
+msgid "Select one of the pre made page sections or using default"
+msgstr "Выберите один из предварительно подготовленных разделов страниц или используйте по умолчанию"
+
+# @ monolit-add-ons
+#: includes/vc-elements.php:107 includes/vc-elements.php:147
+#: includes/vc-elements.php:162 includes/vc-elements.php:189
+#: includes/vc-elements.php:214 includes/vc-elements.php:234
+#: includes/vc-elements.php:254 includes/vc-elements.php:273
+#: includes/vc-elements.php:289 includes/vc-elements.php:304
+#: includes/vc-elements.php:319 includes/vc-elements.php:338
+#: includes/vc-elements.php:353 includes/vc-elements.php:371
+#: includes/vc-elements.php:389 includes/vc-elements.php:407
+#: includes/vc-elements.php:426 includes/vc-elements.php:445
+#: includes/vc-elements.php:464 includes/vc-elements.php:483
+#: includes/vc-elements.php:501 includes/vc-elements.php:516
+#: includes/vc-elements.php:534 includes/vc-elements.php:550
+#: includes/vc-elements.php:566 includes/vc-elements.php:580
+#: includes/vc-elements.php:599 includes/vc-elements.php:615
+#: includes/vc-elements.php:635 includes/vc-elements.php:651
+#: includes/vc-elements.php:664 includes/vc-elements.php:677
+msgid "Monolit Theme"
+msgstr "Тема Monolit"
+
+# @ monolit-add-ons
+#: includes/vc-elements.php:112
+msgid "No Padding"
+msgstr "Без внутренних отступов"
+
+# @ monolit-add-ons
+#: includes/vc-elements.php:134
+msgid "Your Video ID"
+msgstr "Идентификатор видео"
+
+# @ monolit-add-ons
+#: includes/vc-elements.php:137
+msgid "Your Youtube video: oDpSPNIozt8 or Vimeo video: 143243001"
+msgstr "Видео Youtube: oDpSPNIozt8 или видео Vimeo: 143243001"
+
+# @ monolit-add-ons
+#: includes/vc-elements.php:152
+msgid "Video Background Image"
+msgstr "Изображение"
+
+# @ monolit-add-ons
+#: includes/vc-elements.php:167 includes/vc-elements.php:194
+#: includes/vc_elements/home_vimeo.php:43
+#: includes/vc_elements/home_youtube.php:43
+msgid "Video Quality"
+msgstr "Качество видео"
+
+# @ monolit-add-ons
+#: includes/vc-elements.php:197 includes/vc_elements/home_vimeo.php:46
+msgid "4K"
+msgstr "4K"
+
+# @ monolit-add-ons
+#: includes/vc-elements.php:198 includes/vc_elements/home_vimeo.php:47
+msgid "2K"
+msgstr "2K"
+
+# @ monolit-add-ons
+#: includes/vc-elements.php:199 includes/vc_elements/home_vimeo.php:48
+msgid "1080P"
+msgstr "1080P"
+
+# @ monolit-add-ons
+#: includes/vc-elements.php:200 includes/vc_elements/home_vimeo.php:49
+msgid "720P"
+msgstr "720P"
+
+# @ monolit-add-ons
+#: includes/vc-elements.php:201 includes/vc_elements/home_vimeo.php:50
+msgid "540P"
+msgstr "540P"
+
+# @ monolit-add-ons
+#: includes/vc-elements.php:202 includes/vc_elements/home_vimeo.php:51
+msgid "360P"
+msgstr "360P"
+
+# @ monolit-add-ons
+#: includes/vc-elements.php:219 includes/vc_elements/home_vimeo.php:57
+#: includes/vc_elements/home_youtube.php:60
+msgid "Mute"
+msgstr "Пауза"
+
+# @ monolit-add-ons
+#: includes/vc-elements.php:239 includes/vc-elements.php:357
+#: includes/vc_elements/carousel_multiimgs.php:51
+#: includes/vc_elements/home_slider.php:109
+#: includes/vc_elements/home_vimeo.php:68
+#: includes/vc_elements/testimonials.php:95
+msgid "Loop"
+msgstr "Цикл"
+
+# @ monolit-add-ons
+#: includes/vc-elements.php:258
+msgid "Is Header Section"
+msgstr "В область шапки"
+
+# @ monolit-add-ons
+#: includes/vc-elements.php:278
+msgid "Portfolio Images"
+msgstr "Изображения портфолио"
+
+# @ monolit-add-ons
+#: includes/vc-elements.php:293 includes/vc_elements/carousel_multiimgs.php:26
+#: includes/vc_elements/home_slider.php:72
+#: includes/vc_elements/home_slideshow.php:41
+#: includes/vc_elements/testimonials.php:70
+msgid "Items"
+msgstr "Слайды"
+
+# @ monolit-add-ons
+#: includes/vc-elements.php:295 includes/vc_elements/carousel_multiimgs.php:28
+#: includes/vc_elements/home_slider.php:74
+#: includes/vc_elements/testimonials.php:72
+msgid "The number of items you want to see on the screen. Ex: 3"
+msgstr "Количество слайдов, которые вы хотите увидеть на экране. Напр: 3"
+
+# @ monolit-add-ons
+#: includes/vc-elements.php:308
+msgid "Responsive"
+msgstr "Адаптивность"
+
+# @ monolit-add-ons
+#: includes/vc-elements.php:310
+msgid "The format is: screen-size:number-items-display,larger-screen-size:number-items-display. Ex: 0:1,768:1,992:3,1200:3"
+msgstr "Формат: screen-size:number-items-display,larger-screen-size:number-items-display. Напр: 0:1,768:1,992:3,1200:3"
+
+# @ monolit-add-ons
+#: includes/vc-elements.php:323 includes/vc_elements/carousel_multiimgs.php:33
+#: includes/vc_elements/carousel_multiimgs.php:145
+#: includes/vc_elements/home_slider.php:79
+#: includes/vc_elements/members_parallax.php:64
+#: includes/vc_elements/parallax_box.php:37
+#: includes/vc_elements/portfolios_parallax.php:71
+#: includes/vc_elements/testimonials.php:77
+msgid "Center"
+msgstr "По центру"
+
+# @ monolit-add-ons
+#: includes/vc-elements.php:325 includes/vc_elements/carousel_multiimgs.php:35
+#: includes/vc_elements/home_slider.php:81
+#: includes/vc_elements/testimonials.php:79
+msgid "Center item. Works well with even an odd number of items."
+msgstr "По центру. Хорошо работает даже с нечетным числом элементов."
+
+# @ monolit-add-ons
+#: includes/vc-elements.php:342 includes/vc_elements/carousel_multiimgs.php:44
+#: includes/vc_elements/home_slider.php:90
+#: includes/vc_elements/testimonials.php:88
+msgid "smartSpeed"
+msgstr "Умная скорость"
+
+# @ monolit-add-ons
+#: includes/vc-elements.php:345 includes/vc_elements/carousel_multiimgs.php:47
+#: includes/vc_elements/home_slider.php:93
+#: includes/vc_elements/testimonials.php:91
+msgid "Speed Calculate, milisecond number. Ex: 250"
+msgstr "Вычисление скорости, число в миллисекундах. Напр: 250"
+
+# @ monolit-add-ons
+#: includes/vc-elements.php:375 includes/vc_elements/carousel_multiimgs.php:74
+#: includes/vc_elements/testimonials.php:119
+msgid "Auto Width"
+msgstr "Автоширина"
+
+# @ monolit-add-ons
+#: includes/vc-elements.php:377 includes/vc_elements/carousel_multiimgs.php:76
+#: includes/vc_elements/testimonials.php:121
+msgid "Set non grid content. Try using width style on divs."
+msgstr "Установка содержимого, отличного от сетки. Попробуйте использовать стиль ширины для дивов."
+
+# @ monolit-add-ons
+#: includes/vc-elements.php:393 includes/vc_elements/carousel_multiimgs.php:85
+#: includes/vc_elements/home_slider.php:98
+#: includes/vc_elements/testimonials.php:130
+msgid "Auto Play"
+msgstr "Автовоспроизведение"
+
+# @ monolit-add-ons
+#: includes/vc-elements.php:411
+msgid "Show Zoom Image"
+msgstr "Показать иконку Увеличить изображение"
+
+# @ monolit-add-ons
+#: includes/vc-elements.php:430
+msgid "Show Thumbnails"
+msgstr "Отображать миниатюры"
+
+# @ monolit-add-ons
+#: includes/vc-elements.php:449
+msgid "Show Caption"
+msgstr "Отображать подпись"
+
+# @ monolit-add-ons
+#: includes/vc-elements.php:468
+msgid "Show More Info"
+msgstr "Показать Подробнее"
+
+# @ monolit-add-ons
+#: includes/vc-elements.php:487 includes/vc_elements/carousel_multiimgs.php:62
+#: includes/vc_elements/testimonials.php:107
+msgid "Auto Height"
+msgstr "Автоматическая высота"
+
+# @ monolit-add-ons
+#: includes/vc-elements.php:506
+msgid "Parallax Background Image"
+msgstr "Фоновое изображение паралакса"
+
+# @ monolit-add-ons
+#: includes/vc-elements.php:521
+msgid "Youtube Video ID"
+msgstr "ID видео YouTube"
+
+# @ monolit-add-ons
+#: includes/vc-elements.php:524
+msgid "Your Youtube video: oDpSPNIozt8"
+msgstr "YouTube видео: oDpSPNIozt8"
+
+# @ monolit-add-ons
+#: includes/vc-elements.php:539 includes/vc_elements/home_image.php:47
+#: includes/vc_elements/home_slider.php:162
+#: includes/vc_elements/home_slideshow.php:73
+#: includes/vc_elements/home_vimeo.php:90
+#: includes/vc_elements/home_youtube.php:92
+msgid "Overlay Opacity"
+msgstr "Прозрачность наложения"
+
+# @ monolit-add-ons
+#: includes/vc-elements.php:542
+msgid "Overlay Opacity value 0.0 - 1. Ex: 0.2 or 0.8 for dark background"
+msgstr "Значение прозрачности: 0.0 - 1. Напр: 0.2 или 0.8 для темного фона"
+
+# @ monolit-add-ons
+#: includes/vc-elements.php:554 includes/vc_elements/home_image.php:24
+msgid "Background Parallax Value"
+msgstr "Параллакс для фона"
+
+# @ monolit-add-ons
+#: includes/vc-elements.php:557 includes/vc_elements/home_slider.php:173
+#: includes/vc_elements/home_slideshow.php:67
+msgid "Pixel number. Which we are telling the browser is to move Background Image down every time we scroll down 100% of the viewport height and move Background Image up every time we scroll up 100% of the viewport height. Ex: 300 or -300 for reverse direction."
+msgstr "В пикселях. Мы говорим браузеру о том, как перемещать Фоновое изображение вниз каждый раз, когда мы прокручиваем вниз на 100% высоты области просмотра и перемещать Фоновое изображение вверх каждый раз, когда мы прокручиваем вверх на 100% высоты области просмотра. Пример: 300 или -300 для обратного направления."
+
+# @ monolit-add-ons
+#: includes/vc-elements.php:570 includes/vc-elements.php:573
+msgid "Section Number"
+msgstr "Номер раздела"
+
+# @ monolit-add-ons
+#: includes/vc-elements.php:584
+msgid "Section Number Position"
+msgstr "Позиция номера раздела"
+
+# @ monolit-add-ons
+#: includes/vc-elements.php:587
+msgid "Right Position"
+msgstr "Расположение справа"
+
+# @ monolit-add-ons
+#: includes/vc-elements.php:588
+msgid "Left Position"
+msgstr "Расположение слева"
+
+# @ monolit-add-ons
+#: includes/vc-elements.php:590
+msgid "Left or right position"
+msgstr "Расположение слева или справа"
+
+# @ monolit-add-ons
+#: includes/vc-elements.php:603
+msgid "Section Number Parallax Value"
+msgstr "Значение параллакса для номера раздела"
+
+# @ monolit-add-ons
+#: includes/vc-elements.php:606
+msgid "Pixel number. Which we are telling the browser is to move Section Number down every time we scroll down 100% of the viewport height and move Section Number up every time we scroll up 100% of the viewport height. Ex: 200 or -200 for reverse direction."
+msgstr "В пикселях. Мы говорим браузеру о том, как перемещать Номер раздела вниз каждый раз, когда мы прокручиваем вниз на 100% высоты области просмотра и перемещать Номер раздела вверх каждый раз, когда мы прокручиваем вверх на 100% высоты области просмотра. Пример: 200 или -200 для обратного направления."
+
+# @ monolit-add-ons
+#: includes/vc-elements.php:619
+msgid "Use Constellation Animation?"
+msgstr "Использовать анимацию для созвездия?"
+
+# @ monolit-add-ons
+#: includes/vc-elements.php:646
+msgid "CSS Animation"
+msgstr "Анимация CSS"
+
+# @ monolit-add-ons
+#: includes/vc-elements.php:649
+msgid "Select type of animation for element to be animated when it \"enters\" the browsers viewport (Note: works only in modern browsers)."
+msgstr "Выберите тип анимации элемента, который будет анимирован при \"входе\" в режим просмотра (Примечание: работает только в современных браузерах)."
+
+# @ monolit-add-ons
+#: includes/vc-elements.php:656
+msgid "Animation Duration"
+msgstr "Длительность анимации"
+
+# @ monolit-add-ons
+#: includes/vc-elements.php:658 includes/vc-elements.php:671
+msgid "Ex: 0.2s for 200 miliseconds, 2s for 2 second"
+msgstr "Например: 0.2s для 200 miliseconds, 2s для 2 секунд"
+
+# @ monolit-add-ons
+#: includes/vc-elements.php:669
+msgid "Animation delay"
+msgstr "Задержка анимации"
+
+# @ monolit-add-ons
+#: includes/vc_elements/blog_grid.php:5
+msgid "Blog Grid"
+msgstr "Сетка блога"
+
+# @ monolit-add-ons
+#: includes/vc_elements/blog_grid.php:6
+msgid "Grid layout of blog posts"
+msgstr "Макет сетки для записей блога"
+
+# @ monolit-add-ons
+#: includes/vc_elements/blog_grid.php:15
+#: includes/vc_elements/blog_parallax.php:15
+msgid "Post Category IDs to include"
+msgstr "ID категорий записей чтобы включить"
+
+# @ monolit-add-ons
+#: includes/vc_elements/blog_grid.php:17
+#: includes/vc_elements/blog_parallax.php:17
+msgid "Enter post category ids to include, separated by a comma. Leave empty to get posts from all categories."
+msgstr "Введите ID категорий записей для включения, через запятую. Оставьте пустым, чтобы получать записи из всех категорий."
+
+# @ monolit-add-ons
+#: includes/vc_elements/blog_grid.php:22
+#: includes/vc_elements/blog_parallax.php:22
+msgid "Enter Post IDs"
+msgstr "Введите ID записей"
+
+# @ monolit-add-ons
+#: includes/vc_elements/blog_grid.php:24
+#: includes/vc_elements/blog_parallax.php:24
+msgid "Enter Post ids to show, separated by a comma. Leave empty to show all."
+msgstr "Введите ID записей для отображения через запятую. Оставьте пустым, чтобы показать все."
+
+# @ monolit-add-ons
+#: includes/vc_elements/blog_grid.php:29
+#: includes/vc_elements/blog_parallax.php:29
+msgid "Order Posts by"
+msgstr "Сортировать по"
+
+# @ monolit-add-ons
+#: includes/vc_elements/blog_grid.php:44
+#: includes/vc_elements/blog_parallax.php:44
+msgid "Ordering"
+msgstr "Сортировка"
+
+# @ monolit-add-ons
+#: includes/vc_elements/blog_grid.php:57
+#: includes/vc_elements/blog_parallax.php:57
+msgid "Posts to show"
+msgstr "Количество записей для отображения"
+
+# @ monolit-add-ons
+#: includes/vc_elements/blog_grid.php:59
+#: includes/vc_elements/blog_parallax.php:59
+msgid "Number of Blog posts to show (-1 for all)."
+msgstr "Количество записей для отображения (-1 для всех.)"
+
+# @ monolit-add-ons
+#: includes/vc_elements/blog_grid.php:66
+#: includes/vc_elements/blog_parallax.php:66
+#: includes/vc_elements/carousel_multiimgs.php:118
+#: includes/vc_elements/home_slider.php:142
+#: includes/vc_elements/members_parallax.php:112
+#: includes/vc_elements/portfolios_masonry.php:218
+#: includes/vc_elements/portfolios_parallax.php:142
+#: includes/vc_elements/testimonials.php:163
+msgid "Show Pagination"
+msgstr "Показать постраничную навигацию"
+
+# @ monolit-add-ons
+#: includes/vc_elements/blog_grid.php:77
+#: includes/vc_elements/blog_parallax.php:77
+#: includes/vc_elements/carousel_multiimgs.php:178
+#: includes/vc_elements/gmap.php:93 includes/vc_elements/home_image.php:65
+#: includes/vc_elements/home_landing.php:70
+#: includes/vc_elements/home_slider.php:179
+#: includes/vc_elements/home_vimeo.php:107
+#: includes/vc_elements/home_youtube.php:109
+#: includes/vc_elements/images_masonry.php:56
+#: includes/vc_elements/member.php:95
+#: includes/vc_elements/members_parallax.php:133
+#: includes/vc_elements/parallax_box.php:44
+#: includes/vc_elements/partners.php:77 includes/vc_elements/piechart.php:120
+#: includes/vc_elements/portfolio_nav.php:52
+#: includes/vc_elements/portfolios_masonry.php:233
+#: includes/vc_elements/portfolios_parallax.php:163
+#: includes/vc_elements/post_title.php:17 includes/vc_elements/services.php:112
+#: includes/vc_elements/skills_bar.php:61
+#: includes/vc_elements/testimonials.php:186
+#: includes/vc_elements/timelines.php:114
+msgid "Extra class name"
+msgstr "Дополнительный класс"
+
+# @ monolit-add-ons
+#: includes/vc_elements/blog_grid.php:79
+#: includes/vc_elements/blog_parallax.php:79
+#: includes/vc_elements/carousel_multiimgs.php:180
+#: includes/vc_elements/counter.php:44 includes/vc_elements/gmap.php:96
+#: includes/vc_elements/home_image.php:67
+#: includes/vc_elements/home_landing.php:72
+#: includes/vc_elements/home_slider.php:181
+#: includes/vc_elements/home_slideshow.php:82
+#: includes/vc_elements/home_vimeo.php:109
+#: includes/vc_elements/home_youtube.php:111
+#: includes/vc_elements/images_masonry.php:59
+#: includes/vc_elements/member.php:97
+#: includes/vc_elements/members_parallax.php:135
+#: includes/vc_elements/parallax_box.php:46
+#: includes/vc_elements/partners.php:79 includes/vc_elements/piechart.php:122
+#: includes/vc_elements/portfolio_nav.php:55
+#: includes/vc_elements/portfolios_masonry.php:235
+#: includes/vc_elements/portfolios_parallax.php:165
+#: includes/vc_elements/services.php:114 includes/vc_elements/skills_bar.php:63
+#: includes/vc_elements/testimonials.php:188
+#: includes/vc_elements/timelines.php:116
+msgid "If you wish to style particular content element differently, then use this field to add a class name and then refer to it in your css file."
+msgstr "Если вы хотите добавить стили для определенного элемента, тогда используйте это поле чтобы добавить класс CSS и затем используйте этот класс в своем CSS-файле."
+
+# @ monolit-add-ons
+#: includes/vc_elements/blog_grid.php:83
+#: includes/vc_elements/blog_parallax.php:83
+#: includes/vc_elements/carousel_multiimgs.php:184
+#: includes/vc_elements/home_landing.php:76
+#: includes/vc_elements/home_slider.php:185
+#: includes/vc_elements/images_masonry.php:63
+#: includes/vc_elements/members_parallax.php:139
+#: includes/vc_elements/parallax_box.php:50
+#: includes/vc_elements/partners.php:83 includes/vc_elements/piechart.php:126
+#: includes/vc_elements/portfolio_nav.php:59
+#: includes/vc_elements/portfolios_masonry.php:239
+#: includes/vc_elements/portfolios_parallax.php:170
+#: includes/vc_elements/services.php:118
+#: includes/vc_elements/testimonials.php:192
+#: includes/vc_elements/timelines.php:120
+msgid "Css"
+msgstr "Css"
+
+# @ monolit-add-ons
+#: includes/vc_elements/blog_grid.php:85
+#: includes/vc_elements/blog_parallax.php:85
+#: includes/vc_elements/carousel_multiimgs.php:186
+#: includes/vc_elements/home_landing.php:78
+#: includes/vc_elements/home_slider.php:187
+#: includes/vc_elements/images_masonry.php:65
+#: includes/vc_elements/members_parallax.php:141
+#: includes/vc_elements/parallax_box.php:52
+#: includes/vc_elements/partners.php:85 includes/vc_elements/piechart.php:128
+#: includes/vc_elements/portfolio_nav.php:61
+#: includes/vc_elements/portfolios_masonry.php:241
+#: includes/vc_elements/portfolios_parallax.php:172
+#: includes/vc_elements/services.php:120
+#: includes/vc_elements/testimonials.php:194
+#: includes/vc_elements/timelines.php:122
+msgid "Design options"
+msgstr "Настройки дизайна"
+
+# @ monolit-add-ons
+#: includes/vc_elements/blog_parallax.php:5
+msgid "Blog Parallax"
+msgstr "Параллакс блога"
+
+# @ monolit-add-ons
+#: includes/vc_elements/blog_parallax.php:6
+msgid "Parallax layout of blog posts"
+msgstr "Макет параллакс для записей блога"
+
+# @ monolit-add-ons
+#: includes/vc_elements/breadcrumb.php:5
+msgid "Breadcrumb"
+msgstr "Хлебные крошки"
+
+# @ monolit-add-ons
+#: includes/vc_elements/breadcrumb.php:6
+msgid "Portfolio Breadcrumb"
+msgstr "Хлебные крошки для портфолио"
+
+# @ monolit-add-ons
+#: includes/vc_elements/carousel_multiimgs.php:6
+msgid "Owl Carousel Slider"
+msgstr "Карусель Owl"
+
+# @ monolit-add-ons
+#: includes/vc_elements/carousel_multiimgs.php:7
+msgid "with multi images selected"
+msgstr "с выбранными несколькими изображениями"
+
+# @ monolit-add-ons
+#: includes/vc_elements/carousel_multiimgs.php:20
+#: includes/vc_elements/carousel_multiimgs.php:22
+msgid "Slide Images"
+msgstr "Изображения слайда"
+
+# @ monolit-add-ons
+#: includes/vc_elements/carousel_multiimgs.php:96
+#: includes/vc_elements/home_slider.php:120
+#: includes/vc_elements/home_slideshow.php:48
+#: includes/vc_elements/testimonials.php:141
+msgid "autoplayTimeout"
+msgstr "Заддержка автовоспроизведения"
+
+# @ monolit-add-ons
+#: includes/vc_elements/carousel_multiimgs.php:99
+#: includes/vc_elements/home_slider.php:123
+#: includes/vc_elements/home_slideshow.php:51
+#: includes/vc_elements/testimonials.php:144
+msgid "Time after display next slide (in milisecond)"
+msgstr "Время после отображения следующего слайда (в миллисекундах)"
+
+# @ monolit-add-ons
+#: includes/vc_elements/carousel_multiimgs.php:104
+#: includes/vc_elements/home_slider.php:128
+#: includes/vc_elements/home_slideshow.php:56
+#: includes/vc_elements/testimonials.php:149
+msgid "autoplaySpeed"
+msgstr "Скорость автовоспроизведения"
+
+# @ monolit-add-ons
+#: includes/vc_elements/carousel_multiimgs.php:107
+#: includes/vc_elements/home_slider.php:131
+#: includes/vc_elements/home_slideshow.php:59
+#: includes/vc_elements/testimonials.php:152
+msgid "Duration of transition between slides (in ms) or boolen"
+msgstr "Продолжительность анимации между слайдами (в мс)"
+
+# @ monolit-add-ons
+#: includes/vc_elements/carousel_multiimgs.php:111
+#: includes/vc_elements/home_slider.php:135
+#: includes/vc_elements/testimonials.php:156
+msgid "responsive"
+msgstr "Адаптивный"
+
+# @ monolit-add-ons
+#: includes/vc_elements/carousel_multiimgs.php:113
+#: includes/vc_elements/home_slider.php:137
+#: includes/vc_elements/testimonials.php:158
+msgid "The format is: screen-size:number-items-display,larger-screen-size:number-items-display. Ex: 320:1,768:1,992:3,1200:3"
+msgstr "Формат: screen-size:number-items-display,larger-screen-size:number-items-display. Напр: 320:1,768:1,992:3,1200:3"
+
+# @ monolit-add-ons
+#: includes/vc_elements/carousel_multiimgs.php:132
+#: includes/vc_elements/counter.php:51 includes/vc_elements/gmap.php:86
+#: includes/vc_elements/home_slider.php:171
+#: includes/vc_elements/home_slideshow.php:65
+#: includes/vc_elements/home_vimeo.php:99
+#: includes/vc_elements/home_youtube.php:101 includes/vc_elements/member.php:64
+#: includes/vc_elements/members_parallax.php:126
+#: includes/vc_elements/parallax_box.php:24
+#: includes/vc_elements/partners.php:69 includes/vc_elements/piechart.php:71
+#: includes/vc_elements/portfolios_parallax.php:156
+#: includes/vc_elements/services.php:60
+#: includes/vc_elements/testimonials.php:178
+#: includes/vc_elements/timelines.php:60
+msgid "Parallax Value"
+msgstr "Значение параллакса"
+
+# @ monolit-add-ons
+#: includes/vc_elements/carousel_multiimgs.php:134
+#: includes/vc_elements/testimonials.php:180
+msgid "Pixel number. Which we are telling the browser is to move Slider down every time we scroll down 100% of the viewport height and move Slider up every time we scroll up 100% of the viewport height. Ex: 150 or -150 for reverse direction."
+msgstr "В пикселях. Мы говорим браузеру о том, как перемещать Слайдер вниз каждый раз, когда мы прокручиваем вниз на 100% высоты области просмотра и перемещать Слайдер вверх каждый раз, когда мы прокручиваем вверх на 100% высоты области просмотра. Пример: 150 или -150 для обратного направления."
+
+# @ monolit-add-ons
+#: includes/vc_elements/carousel_multiimgs.php:140
+#: includes/vc_elements/parallax_box.php:32
+msgid "Box Position"
+msgstr "Расположение блока"
+
+# @ monolit-add-ons
+#: includes/vc_elements/carousel_multiimgs.php:143
+#: includes/vc_elements/parallax_box.php:35
+msgid "Move Left 20%"
+msgstr "Перемещение влево 20%"
+
+# @ monolit-add-ons
+#: includes/vc_elements/carousel_multiimgs.php:144
+#: includes/vc_elements/parallax_box.php:36
+msgid "Move Right 20%"
+msgstr "Перемещение вправо 20%"
+
+# @ monolit-add-ons
+#: includes/vc_elements/carousel_multiimgs.php:153
+msgid "Image Size"
+msgstr "Размер изображения"
+
+# @ monolit-add-ons
+#: includes/vc_elements/carousel_multiimgs.php:156
+msgid "Small - Tall"
+msgstr "Малый - Высокий"
+
+# @ monolit-add-ons
+#: includes/vc_elements/carousel_multiimgs.php:157
+msgid "Portfolio Slider"
+msgstr "Слайдер портфолио"
+
+# @ monolit-add-ons
+#: includes/vc_elements/carousel_multiimgs.php:158
+msgid "Horizontal Slider"
+msgstr "Горизонтальный слайдер"
+
+# @ monolit-add-ons
+#: includes/vc_elements/carousel_multiimgs.php:159
+msgid "Full Size"
+msgstr "Полный размер"
+
+# @ monolit-add-ons
+#: includes/vc_elements/carousel_multiimgs.php:166
+msgid "Show Zoom"
+msgstr "Отображать кнопку увеличения"
+
+# @ monolit-add-ons
+#: includes/vc_elements/counter.php:5
+msgid "Counter"
+msgstr "Счетчик"
+
+# @ monolit-add-ons
+#: includes/vc_elements/counter.php:6
+msgid "Animated Counter"
+msgstr "Анимированный счетчик"
+
+# @ monolit-add-ons
+#: includes/vc_elements/counter.php:18 includes/vc_elements/counter.php:20
+msgid "Number"
+msgstr "Число"
+
+# @ monolit-add-ons
+#: includes/vc_elements/counter.php:26 includes/vc_elements/counter.php:28
+#: includes/vc_elements/home_slider.php:60
+#: includes/vc_elements/home_vimeo.php:16
+#: includes/vc_elements/home_youtube.php:16
+msgid "Content"
+msgstr "Содержимое"
+
+# @ monolit-add-ons
+#: includes/vc_elements/counter.php:35
+msgid "Icon Class"
+msgstr "Класс иконки"
+
+# @ monolit-add-ons
+#: includes/vc_elements/counter.php:37
+msgid "Search icon : <a href='http://fontawesome.io/icons/' target='_blank'>FONT AWESOME</a>"
+msgstr "Искать иконку : <a href='http://fontawesome.io/icons/' target='_blank'>FONT AWESOME</a>"
+
+# @ monolit-add-ons
+#: includes/vc_elements/counter.php:42
+#: includes/vc_elements/home_slideshow.php:80
+msgid "Extraclass"
+msgstr "Дополнительный класс"
+
+# @ monolit-add-ons
+#: includes/vc_elements/counter.php:53
+msgid "Pixel number. Which we are telling the browser is to move Number down every time we scroll down 100% of the viewport height and move Number up every time we scroll up 100% of the viewport height. Ex: 80 or -80 for reverse direction."
+msgstr "В пикселях. Мы говорим браузеру о том, как перемещать Номер вниз каждый раз, когда мы прокручиваем вниз на 100% высоты области просмотра и перемещать Номер вверх каждый раз, когда мы прокручиваем вверх на 100% высоты области просмотра. Пример: 80 или -80 для обратного направления."
+
+# @ monolit-add-ons
+#: includes/vc_elements/gmap.php:5
+msgid "Google Map"
+msgstr "Карта Google"
+
+# @ monolit-add-ons
+#: includes/vc_elements/gmap.php:6
+msgid "Monolit google map style"
+msgstr "Стиль для Google Map"
+
+# @ monolit-add-ons
+#: includes/vc_elements/gmap.php:18
+msgid "Address Latitude"
+msgstr "Широта адреса"
+
+# @ monolit-add-ons
+#: includes/vc_elements/gmap.php:21
+msgid "Enter your address latitude. You can get your value from: <a href='http://www.gps-coordinates.net/' target='_blank'>http://www.gps-coordinates.net/</a>"
+msgstr "Введите широту адреса. Вы можете получить свое значение: <a href='http://www.gps-coordinates.net/' target='_blank'>http://www.gps-coordinates.net/</a>"
+
+# @ monolit-add-ons
+#: includes/vc_elements/gmap.php:27
+msgid "Address Longtitude"
+msgstr "Долгота адреса"
+
+# @ monolit-add-ons
+#: includes/vc_elements/gmap.php:30
+msgid "Enter your address longtitude. You can get your value from: <a href='http://www.gps-coordinates.net/' target='_blank'>http://www.gps-coordinates.net/</a>"
+msgstr "Введите долготу адреса. Вы можете получить свое значение: <a href='http://www.gps-coordinates.net/' target='_blank'>http://www.gps-coordinates.net/</a>"
+
+# @ monolit-add-ons
+#: includes/vc_elements/gmap.php:37 includes/vc_elements/gmap.php:40
+msgid "Address String"
+msgstr "Адресная строка"
+
+# @ monolit-add-ons
+#: includes/vc_elements/gmap.php:46 includes/vc_elements/gmap.php:49
+msgid "Map Zoom"
+msgstr "Увеличение карты"
+
+# @ monolit-add-ons
+#: includes/vc_elements/gmap.php:56
+msgid "Map Marker"
+msgstr "Маркер на карте"
+
+# @ monolit-add-ons
+#: includes/vc_elements/gmap.php:59
+msgid "Upload google map marker or leave it empty to use default."
+msgstr "Загрузите маркер карты google или оставьте его пустым, чтобы использовать значение по умолчанию."
+
+# @ monolit-add-ons
+#: includes/vc_elements/gmap.php:65
+msgid "Map Height"
+msgstr "Высота карты"
+
+# @ monolit-add-ons
+#: includes/vc_elements/gmap.php:68
+msgid "Enter your map height in pixel. Default: 400"
+msgstr "Укажите высоту карты в пикселях. По умолчанию: 400"
+
+# @ monolit-add-ons
+#: includes/vc_elements/gmap.php:74
+msgid "Use Default Style"
+msgstr "Стиль по умолчанию"
+
+# @ monolit-add-ons
+#: includes/vc_elements/gmap.php:80
+msgid "Set this to Yes to use default Google map style."
+msgstr "Установите значение Да, чтобы использовать стиль карты Google по умолчанию."
+
+# @ monolit-add-ons
+#: includes/vc_elements/gmap.php:88
+msgid "Pixel number. Which we are telling the browser is to move Google Map down every time we scroll down 100% of the viewport height and move Google Map up every time we scroll up 100% of the viewport height. Ex: 150 or -150 for reverse direction."
+msgstr "В пикселях. Мы говорим браузеру о том, как перемещать Карты вниз каждый раз, когда мы прокручиваем вниз на 100% высоты области просмотра и перемещать Карты вверх каждый раз, когда мы прокручиваем вверх на 100% высоты области просмотра. Пример: 150 или -150 для обратного направления."
+
+# @ monolit-add-ons
+#: includes/vc_elements/home_image.php:5
+msgid "Home Image Background"
+msgstr "Фоновое изображение главной страницы"
+
+# @ monolit-add-ons
+#: includes/vc_elements/home_image.php:6
+msgid "Page content with image background"
+msgstr "Фоновое изображение для контента страницы"
+
+# @ monolit-add-ons
+#: includes/vc_elements/home_image.php:17
+#: includes/vc_elements/home_vimeo.php:81
+#: includes/vc_elements/home_youtube.php:83
+msgid "Background Image"
+msgstr "Фоновое изображение"
+
+# @ monolit-add-ons
+#: includes/vc_elements/home_image.php:19
+msgid "Background image"
+msgstr "Фоновое изображение"
+
+# @ monolit-add-ons
+#: includes/vc_elements/home_image.php:27
+msgid "Pixel number. Which we are telling the browser is to move Background Image down every time we scroll down 100% of the viewport height and move Background Image up every time we scroll up 100% of the viewport height. Ex: 300  or -300 for reverse direction."
+msgstr "В пикселях. Мы говорим браузеру о том, как перемещать Фоновое изображение вниз каждый раз, когда мы прокручиваем вниз на 100% высоты области просмотра и перемещать Фоновое изображение вверх каждый раз, когда мы прокручиваем вверх на 100% высоты области просмотра. Пример: 300 или -300 для обратного направления."
+
+# @ monolit-add-ons
+#: includes/vc_elements/home_image.php:37
+#: includes/vc_elements/home_image.php:39
+#: includes/vc_elements/home_slideshow.php:25
+#: includes/vc_elements/home_slideshow.php:27
+msgid "Page Content"
+msgstr "Содержимое страницы"
+
+# @ monolit-add-ons
+#: includes/vc_elements/home_image.php:50
+#: includes/vc_elements/home_slider.php:165
+#: includes/vc_elements/home_slideshow.php:76
+#: includes/vc_elements/home_vimeo.php:93
+#: includes/vc_elements/home_youtube.php:95
+msgid "Overlay Opacity value 0.0 - 1"
+msgstr "Наложение прозрачности 0.0 - 1"
+
+# @ monolit-add-ons
+#: includes/vc_elements/home_image.php:56
+#: includes/vc_elements/home_image.php:59
+#: includes/vc_elements/home_slideshow.php:32
+#: includes/vc_elements/home_slideshow.php:35
+#: includes/vc_elements/home_vimeo.php:24
+#: includes/vc_elements/home_vimeo.php:27
+#: includes/vc_elements/home_youtube.php:24
+#: includes/vc_elements/home_youtube.php:27
+msgid "Scroll Link"
+msgstr "Ссылка прокрутки"
+
+# @ monolit-add-ons
+#: includes/vc_elements/home_landing.php:5
+msgid "Landing Page Section"
+msgstr "Целевая (продающая) страница"
+
+# @ monolit-add-ons
+#: includes/vc_elements/home_landing.php:6
+msgid "For Home Landing template only"
+msgstr "Только для шаблона Home Landing"
+
+# @ monolit-add-ons
+#: includes/vc_elements/home_landing.php:17
+msgid "Logo"
+msgstr "Логотип"
+
+# @ monolit-add-ons
+#: includes/vc_elements/home_landing.php:32
+msgid "Subtitle"
+msgstr "Подзаголовок"
+
+# @ monolit-add-ons
+#: includes/vc_elements/home_landing.php:40
+msgid "Landing Content"
+msgstr "Содержимое лендинга"
+
+# @ monolit-add-ons
+#: includes/vc_elements/home_landing.php:47
+msgid "Show Right Iframe"
+msgstr "Отображать Iframe справа"
+
+# @ monolit-add-ons
+#: includes/vc_elements/home_landing.php:59
+msgid "Show Constellation"
+msgstr "Показать созвездие"
+
+# @ monolit-add-ons
+#: includes/vc_elements/home_slider.php:5
+msgid "Home Slider"
+msgstr "Слайдер на Главной"
+
+# @ monolit-add-ons
+#: includes/vc_elements/home_slider.php:6
+msgid "Slider element for home page"
+msgstr "Элемент слайдера для главной страницы"
+
+# @ monolit-add-ons
+#: includes/vc_elements/home_slider.php:17
+msgid "Slides"
+msgstr "Слайды"
+
+# @ monolit-add-ons
+#: includes/vc_elements/home_slider.php:54
+msgid "Slide Image"
+msgstr "Изображение для слайда"
+
+# @ monolit-add-ons
+#: includes/vc_elements/home_slider.php:111
+msgid "Restart when reaches to the end."
+msgstr "Воспроизводить слайдер еще раз, когда он достигает конца."
+
+# @ monolit-add-ons
+#: includes/vc_elements/home_slider.php:154
+msgid "Animated Duration"
+msgstr "Продолжительность анимации"
+
+# @ monolit-add-ons
+#: includes/vc_elements/home_slider.php:157
+msgid "Time after display background image will change after text slide changed (in milisecond). Ex: 1300"
+msgstr "Время после отображения фонового изображения изменится после изменения текста слайда (в милисекундах). Напр: 1300"
+
+# @ monolit-add-ons
+#: includes/vc_elements/home_slideshow.php:5
+msgid "Home Slideshow"
+msgstr "Слайд-шоу на главной"
+
+# @ monolit-add-ons
+#: includes/vc_elements/home_slideshow.php:6
+msgid "Monolit home with background slideshow images"
+msgstr "Главная с фоновыми изображениями слайд-шоу"
+
+# @ monolit-add-ons
+#: includes/vc_elements/home_slideshow.php:17
+msgid "Background Images"
+msgstr "Фоновые изображения"
+
+# @ monolit-add-ons
+#: includes/vc_elements/home_slideshow.php:19
+msgid "Background slideshow images"
+msgstr "Фоновые изображения слайд-шоу"
+
+# @ monolit-add-ons
+#: includes/vc_elements/home_slideshow.php:43
+msgid "The maximum amount of items displayed: 1"
+msgstr "Максимальное количество отображаемых элементов: 1"
+
+# @ monolit-add-ons
+#: includes/vc_elements/home_vimeo.php:5
+msgid "Home Vimeo Video"
+msgstr "Видео Vimeo на главной"
+
+# @ monolit-add-ons
+#: includes/vc_elements/home_vimeo.php:6
+msgid "Home background video from Vimeo"
+msgstr "Фоновое видео Vimeo на главной"
+
+# @ monolit-add-ons
+#: includes/vc_elements/home_vimeo.php:35
+msgid "Your Vimeo Video ID"
+msgstr "Идентификатор (ID) видео Vimeo"
+
+# @ monolit-add-ons
+#: includes/vc_elements/home_vimeo.php:38
+msgid "Your Vimeo Video ID: 143243001"
+msgstr "Идентификатор (ID) видео Vimeo: 143243001"
+
+# @ monolit-add-ons
+#: includes/vc_elements/home_vimeo.php:83
+#: includes/vc_elements/home_youtube.php:85
+msgid "Background image for mobile device"
+msgstr "Фоновое изображение для мобильного устройства"
+
+# @ monolit-add-ons
+#: includes/vc_elements/home_vimeo.php:101
+#: includes/vc_elements/home_youtube.php:103
+msgid "Pixel number. Which we are telling the browser is to move Background Video down every time we scroll down 100% of the viewport height and move Background Video up every time we scroll up 100% of the viewport height. Ex: 300 or -300 for reverse direction."
+msgstr "В пикселях. Мы говорим браузеру о том, как перемещать Фоновое видео вниз каждый раз, когда мы прокручиваем вниз на 100% высоты области просмотра и перемещать Фоновое видео вверх каждый раз, когда мы прокручиваем вверх на 100% высоты области просмотра. Пример: 300 или -300 для обратного направления."
+
+# @ monolit-add-ons
+#: includes/vc_elements/home_youtube.php:5
+msgid "Home Youtube Video"
+msgstr "Видео Youtube на главной"
+
+# @ monolit-add-ons
+#: includes/vc_elements/home_youtube.php:6
+msgid "Home background video from Youtube"
+msgstr "Фоновое видео Youtube на главной"
+
+# @ monolit-add-ons
+#: includes/vc_elements/home_youtube.php:35
+msgid "Your Youtube Video ID"
+msgstr "ID видео Youtube"
+
+# @ monolit-add-ons
+#: includes/vc_elements/home_youtube.php:38
+msgid "Your Youtube Video ID: oDpSPNIozt8"
+msgstr "Идентификатор видео Youtube: oDpSPNIozt8"
+
+# @ monolit-add-ons
+#: includes/vc_elements/home_youtube.php:71
+msgid "Pause on scroll"
+msgstr "Пауза на прокрутке"
+
+# @ monolit-add-ons
+#: includes/vc_elements/images_masonry.php:5
+msgid "Popup Gallery Masonry"
+msgstr "Сетка галереи во восплывающем окне"
+
+# @ monolit-add-ons
+#: includes/vc_elements/images_masonry.php:6
+msgid "Photos gallery masonry layout for monolit project with popup effect"
+msgstr "Фотографии галереи кладки для проекта с эффектом всплывающего окна"
+
+# @ monolit-add-ons
+#: includes/vc_elements/images_masonry.php:18
+msgid "Gallery Photos"
+msgstr "Галерея фото"
+
+# @ monolit-add-ons
+#: includes/vc_elements/images_masonry.php:26
+#: includes/vc_elements/partners.php:52
+msgid "Columns Grid"
+msgstr "Колонки сетки"
+
+# @ monolit-add-ons
+#: includes/vc_elements/member.php:5
+msgid "Team Member"
+msgstr "Сотрудник"
+
+# @ monolit-add-ons
+#: includes/vc_elements/member.php:6
+msgid "Team member"
+msgstr "Сотрудник"
+
+# @ monolit-add-ons
+#: includes/vc_elements/member.php:18
+msgid "Photo"
+msgstr "Фото"
+
+# @ monolit-add-ons
+#: includes/vc_elements/member.php:21
+msgid "Upload avatar photo of the member"
+msgstr "Загрузить аватар сотрудника"
+
+# @ monolit-add-ons
+#: includes/vc_elements/member.php:26
+msgid "Socials"
+msgstr "Социальные сети"
+
+# @ monolit-add-ons
+#: includes/vc_elements/member.php:40
+msgid "Social Link"
+msgstr "Ссылка на социальную сеть"
+
+# @ monolit-add-ons
+#: includes/vc_elements/member.php:42
+msgid "You have to use full Awesome icon class for social icon. Ex: fa fa-facebook. Or use normal title instead."
+msgstr "Вы должны использовать полный класс иконок-шрифтов Awesome для социальной иконки. Напр: fa fa-facebook. Или использовать нормальное название."
+
+# @ monolit-add-ons
+#: includes/vc_elements/member.php:54
+msgid "Member Info"
+msgstr "Информация о сотруднике"
+
+# @ monolit-add-ons
+#: includes/vc_elements/member.php:66
+msgid "Pixel number. Which we are telling the browser is to move Member down every time we scroll down 100% of the viewport height and move Member up every time we scroll up 100% of the viewport height. Ex: 50 or -50 for reverse direction."
+msgstr "В пикселях. Мы говорим браузеру о том, как перемещать Сотрудников вниз каждый раз, когда мы прокручиваем вниз на 100% высоты области просмотра и перемещать Сотрудников вверх каждый раз, когда мы прокручиваем вверх на 100% высоты области просмотра. Пример: 50 или -50 для обратного направления."
+
+# @ monolit-add-ons
+#: includes/vc_elements/member.php:72
+msgid "Disable Overlay"
+msgstr "Отключить наложение"
+
+# @ monolit-add-ons
+#: includes/vc_elements/member.php:84
+msgid "Disable Bottom Right Decoration"
+msgstr "Отключить нижнее правое оформление"
+
+# @ monolit-add-ons
+#: includes/vc_elements/members_parallax.php:5
+msgid "Members Parallax"
+msgstr "Параллакс для сотрудников"
+
+# @ monolit-add-ons
+#: includes/vc_elements/members_parallax.php:6
+msgid "Parallax layout of member items"
+msgstr "Макет параллакса для сотрудников"
+
+# @ monolit-add-ons
+#: includes/vc_elements/members_parallax.php:17
+msgid "Enter Member IDs"
+msgstr "Введите ID сотрудников"
+
+# @ monolit-add-ons
+#: includes/vc_elements/members_parallax.php:19
+msgid "Enter member ids to show, separated by a comma."
+msgstr "Введите идентификаторы сотрудников для отображения через запятую."
+
+# @ monolit-add-ons
+#: includes/vc_elements/members_parallax.php:24
+msgid "Order Members by"
+msgstr "Сортировать сотрудников"
+
+# @ monolit-add-ons
+#: includes/vc_elements/members_parallax.php:39
+#: includes/vc_elements/portfolios_masonry.php:37
+msgid "Sort Order"
+msgstr "Порядок сортировки"
+
+# @ monolit-add-ons
+#: includes/vc_elements/members_parallax.php:51
+#: includes/vc_elements/portfolios_masonry.php:104
+#: includes/vc_elements/portfolios_parallax.php:58
+msgid "Post to show"
+msgstr "Записи для отображения"
+
+# @ monolit-add-ons
+#: includes/vc_elements/members_parallax.php:53
+msgid "Number of member items to show (-1 for all)."
+msgstr "Количество сотрудников для отображения (-1 для всех)."
+
+# @ monolit-add-ons
+#: includes/vc_elements/members_parallax.php:58
+#: includes/vc_elements/portfolios_parallax.php:65
+msgid "First Side"
+msgstr "Первая сторона"
+
+# @ monolit-add-ons
+#: includes/vc_elements/members_parallax.php:62
+#: includes/vc_elements/portfolios_parallax.php:69
+msgid "Left"
+msgstr "Слева"
+
+# @ monolit-add-ons
+#: includes/vc_elements/members_parallax.php:63
+#: includes/vc_elements/portfolios_parallax.php:70
+msgid "Right"
+msgstr "Справа"
+
+# @ monolit-add-ons
+#: includes/vc_elements/members_parallax.php:72
+#: includes/vc_elements/portfolios_masonry.php:165
+#: includes/vc_elements/portfolios_parallax.php:79
+msgid "Show Date"
+msgstr "Отображать дату"
+
+# @ monolit-add-ons
+#: includes/vc_elements/members_parallax.php:87
+#: includes/vc_elements/portfolios_masonry.php:193
+#: includes/vc_elements/portfolios_parallax.php:107
+msgid "Show Excerpt"
+msgstr "Отображать анонс"
+
+# @ monolit-add-ons
+#: includes/vc_elements/members_parallax.php:100
+msgid "Show View More"
+msgstr "Показать Подробнее"
+
+# @ monolit-add-ons
+#: includes/vc_elements/members_parallax.php:128
+#: includes/vc_elements/portfolios_parallax.php:158
+msgid "Pixel number. Which we are telling the browser is to move Portfolio Title down every time we scroll down 100% of the viewport height and move Portfolio Title up every time we scroll up 100% of the viewport height. Ex: 150 or -150 for reverse direction."
+msgstr "В пикселях. Мы говорим браузеру о том, как перемещать Заголовок портфолио вниз каждый раз, когда мы прокручиваем вниз на 100% высоты области просмотра и перемещать Заголовок портфолио вверх каждый раз, когда мы прокручиваем вверх на 100% высоты области просмотра. Пример: 150 или -150 для обратного направления."
+
+# @ monolit-add-ons
+#: includes/vc_elements/parallax_box.php:5
+msgid "Parallax Box"
+msgstr "Параллакс"
+
+# @ monolit-add-ons
+#: includes/vc_elements/parallax_box.php:6
+msgid "Content box with parallax effect."
+msgstr "Блок контента с эффектом параллакса."
+
+# @ monolit-add-ons
+#: includes/vc_elements/parallax_box.php:16
+#: includes/vc_elements/parallax_box.php:18
+msgid "Box Content"
+msgstr "Блок контента"
+
+# @ monolit-add-ons
+#: includes/vc_elements/parallax_box.php:26
+msgid "Pixel number. Which we are telling the browser is to move Box down every time we scroll down 100% of the viewport height and move Box up every time we scroll up 100% of the viewport height. Ex: 150 or -150 for reverse direction."
+msgstr "В пикселях. Мы говорим браузеру о том, как перемещать Блок вниз каждый раз, когда мы прокручиваем вниз на 100% высоты области просмотра и перемещать Блок вверх каждый раз, когда мы прокручиваем вверх на 100% высоты области просмотра. Пример: 150 или -150 для обратного направления."
+
+# @ monolit-add-ons
+#: includes/vc_elements/partners.php:5
+msgid "Our Partners"
+msgstr "Наши партнеры"
+
+# @ monolit-add-ons
+#: includes/vc_elements/partners.php:6
+msgid "List of our partners or clients"
+msgstr "Список наших партнеров или клиентов"
+
+# @ monolit-add-ons
+#: includes/vc_elements/partners.php:19
+msgid "Partner Images"
+msgstr "Изображения партнеров"
+
+# @ monolit-add-ons
+#: includes/vc_elements/partners.php:29
+msgid "Partner Links"
+msgstr "Ссылки партнеров"
+
+# @ monolit-add-ons
+#: includes/vc_elements/partners.php:36
+msgid "Enter links for each partner (Note: divide links with linebreaks (Enter))."
+msgstr "Введите ссылки для каждого партнера (Примечание: разделите ссылки (Enter))."
+
+# @ monolit-add-ons
+#: includes/vc_elements/partners.php:41
+msgid "Target"
+msgstr "Метод открытия"
+
+# @ monolit-add-ons
+#: includes/vc_elements/partners.php:44
+msgid "Opens Partner link in new window"
+msgstr "Открывать партнерские ссылки в новом окне"
+
+# @ monolit-add-ons
+#: includes/vc_elements/partners.php:45
+msgid "Opens Partner link in the same window"
+msgstr "Открывать партнерские ссылки в текущем окне"
+
+# @ monolit-add-ons
+#: includes/vc_elements/partners.php:60 includes/vc_elements/services.php:76
+msgid "Six Columns"
+msgstr "6 колонок"
+
+# @ monolit-add-ons
+#: includes/vc_elements/partners.php:71
+msgid "Pixel number. Which we are telling the browser is to move Partner Logos down every time we scroll down 100% of the viewport height and move Partner Logos up every time we scroll up 100% of the viewport height. Ex: 150 or -150 for reverse direction."
+msgstr "В пикселях. Мы говорим браузеру о том, как перемещать логотипы партнеров вниз каждый раз, когда мы прокручиваем вниз на 100% высоты области просмотра и перемещать логотипы партнеров вверх каждый раз, когда мы прокручиваем вверх на 100% высоты области просмотра. Пример: 150 или -150 для обратного направления."
+
+# @ monolit-add-ons
+#: includes/vc_elements/piechart.php:5
+msgid "Piechart"
+msgstr "Круговая диаграмма"
+
+# @ monolit-add-ons
+#: includes/vc_elements/piechart.php:6
+msgid "Animated Piechart"
+msgstr "Анимированная круговая диаграмма"
+
+# @ monolit-add-ons
+#: includes/vc_elements/piechart.php:15
+msgid "Piecharts"
+msgstr "Круговые диаграммы"
+
+# @ monolit-add-ons
+#: includes/vc_elements/piechart.php:44
+msgid "Description"
+msgstr "Описание"
+
+# @ monolit-add-ons
+#: includes/vc_elements/piechart.php:52 includes/vc_elements/skills_bar.php:52
+msgid "Value"
+msgstr "Значение"
+
+# @ monolit-add-ons
+#: includes/vc_elements/piechart.php:54
+msgid "Enter value of piechart."
+msgstr "Введите значение для круговой диаграммы."
+
+# @ monolit-add-ons
+#: includes/vc_elements/piechart.php:62
+msgid "Unit"
+msgstr "Единица измерения"
+
+# @ monolit-add-ons
+#: includes/vc_elements/piechart.php:73
+msgid "Pixel number. Which we are telling the browser is to move Piechart down every time we scroll down 100% of the viewport height and move Piechart up every time we scroll up 100% of the viewport height. Ex: 80 or -80 for reverse direction."
+msgstr "В пикселях. Мы говорим браузеру о том, как перемещать Круговые диаграммы вниз каждый раз, когда мы прокручиваем вниз на 100% высоты области просмотра и перемещать Круговые диаграммы вверх каждый раз, когда мы прокручиваем вверх на 100% высоты области просмотра. Пример: 80 или -80 для обратного направления."
+
+# @ monolit-add-ons
+#: includes/vc_elements/piechart.php:79
+msgid "Width"
+msgstr "Ширина"
+
+# @ monolit-add-ons
+#: includes/vc_elements/piechart.php:82 includes/vc_elements/services.php:100
+#: includes/vc_elements/timelines.php:77 includes/vc_elements/timelines.php:100
+msgid "1/1"
+msgstr "1/1"
+
+# @ monolit-add-ons
+#: includes/vc_elements/piechart.php:83 includes/vc_elements/services.php:93
+#: includes/vc_elements/timelines.php:73 includes/vc_elements/timelines.php:96
+msgid "1/3"
+msgstr "1/3"
+
+# @ monolit-add-ons
+#: includes/vc_elements/piechart.php:84 includes/vc_elements/services.php:91
+#: includes/vc_elements/timelines.php:71 includes/vc_elements/timelines.php:94
+msgid "1/2"
+msgstr "1/2"
+
+# @ monolit-add-ons
+#: includes/vc_elements/piechart.php:85 includes/vc_elements/services.php:95
+#: includes/vc_elements/timelines.php:75 includes/vc_elements/timelines.php:98
+msgid "1/4"
+msgstr "1/4"
+
+# @ monolit-add-ons
+#: includes/vc_elements/piechart.php:86 includes/vc_elements/services.php:96
+#: includes/vc_elements/timelines.php:76 includes/vc_elements/timelines.php:99
+msgid "1/6"
+msgstr "1/6"
+
+# @ monolit-add-ons
+#: includes/vc_elements/piechart.php:97
+msgid "Color"
+msgstr "Цвет"
+
+# @ monolit-add-ons
+#: includes/vc_elements/piechart.php:105
+msgid "Size"
+msgstr "Размер"
+
+# @ monolit-add-ons
+#: includes/vc_elements/piechart.php:107
+msgid "Size of the pie chart in px. It will always be a square."
+msgstr "Размер круговой диаграммы в px. Это всегда будет квадрат."
+
+# @ monolit-add-ons
+#: includes/vc_elements/piechart.php:112
+msgid "Line Width"
+msgstr "Толщина линии"
+
+# @ monolit-add-ons
+#: includes/vc_elements/piechart.php:115
+msgid "Width of the chart line in px."
+msgstr "Толщина линии круга в px."
+
+# @ monolit-add-ons
+#: includes/vc_elements/portfolio_comment.php:5
+msgid "Portfolio Comment"
+msgstr "Комментарий к портфолио"
+
+# @ monolit-add-ons
+#: includes/vc_elements/portfolio_comment.php:6
+msgid "Portfolio comment list"
+msgstr "Список комментариев к портфолио"
+
+# @ monolit-add-ons
+#: includes/vc_elements/portfolio_nav.php:5
+msgid "Portfolio Nav"
+msgstr "Положение навигации"
+
+# @ monolit-add-ons
+#: includes/vc_elements/portfolio_nav.php:6
+msgid "Portfolio post nav"
+msgstr "Навигация в записи портфолио"
+
+# @ monolit-add-ons
+#: includes/vc_elements/portfolio_nav.php:17
+msgid "In Same Terms"
+msgstr "Из той же категории"
+
+# @ monolit-add-ons
+#: includes/vc_elements/portfolio_nav.php:18
+msgid "Whether previous/next posts must be within the same taxonomy term as the current post."
+msgstr "Должны ли предыдущие и следующие записи быть в пределах одной категории, что и текущая запись."
+
+# @ monolit-add-ons
+#: includes/vc_elements/portfolio_nav.php:33
+msgid "Show All Project"
+msgstr "Показать Все проекты"
+
+# @ monolit-add-ons
+#: includes/vc_elements/portfolio_nav.php:44
+msgid "All Projects Link"
+msgstr "Ссылка на Все проекты"
+
+# @ monolit-add-ons
+#: includes/vc_elements/portfolio_nav.php:47
+msgid "Leave empty to use default portfolio archive link."
+msgstr "Оставьте пустым, чтобы использовать ссылку на архив портфолио по умолчанию."
+
+# @ monolit-add-ons
+#: includes/vc_elements/portfolios_masonry.php:5
+msgid "Portfolios Masonry"
+msgstr "Кладка портфолио"
+
+# @ monolit-add-ons
+#: includes/vc_elements/portfolios_masonry.php:6
+msgid "Masonry layout of portfolio items"
+msgstr "Макет кладки для списка портфолио"
+
+# @ monolit-add-ons
+#: includes/vc_elements/portfolios_masonry.php:15
+msgid "Portfolio Category IDs to exclude"
+msgstr "ID категорий портфолио для исключения"
+
+# @ monolit-add-ons
+#: includes/vc_elements/portfolios_masonry.php:17
+msgid "Enter portfolio category ids to exclude, separated by a comma. Leave empty to display all categories."
+msgstr "Введите ID категорий портфолио для исключения, через запятую. Оставьте пустым, чтобы отобразить все категории."
+
+# @ monolit-add-ons
+#: includes/vc_elements/portfolios_masonry.php:23
+msgid "Order Portfolio Categories by"
+msgstr "Сортировать категории портфолио по"
+
+# @ monolit-add-ons
+#: includes/vc_elements/portfolios_masonry.php:28
+#: includes/vc_elements/services.php:17
+#: includes/vc_elements/testimonials.php:17
+#: includes/vc_elements/timelines.php:17
+msgid "Count"
+msgstr "Количество"
+
+# @ monolit-add-ons
+#: includes/vc_elements/portfolios_masonry.php:29
+msgid "Slug"
+msgstr "Ярлык"
+
+# @ monolit-add-ons
+#: includes/vc_elements/portfolios_masonry.php:49
+msgid "Show Filter"
+msgstr "Показать фильтр"
+
+# @ monolit-add-ons
+#: includes/vc_elements/portfolios_masonry.php:62
+#: includes/vc_elements/portfolios_parallax.php:23
+msgid "Enter Portfolio IDs"
+msgstr "ID портфолио"
+
+# @ monolit-add-ons
+#: includes/vc_elements/portfolios_masonry.php:64
+msgid "Enter portfolio ids to show, separated by a comma. Leave empty to get all."
+msgstr "Введите ID портфолио для отображения, через запятую. Оставьте пустым, чтобы показать все."
+
+# @ monolit-add-ons
+#: includes/vc_elements/portfolios_masonry.php:69
+msgid "Portfolio IDs to Exclude"
+msgstr "ID портфолио для исключения"
+
+# @ monolit-add-ons
+#: includes/vc_elements/portfolios_masonry.php:71
+msgid "Enter portfolio ids to exclude, separated by a comma. Use if the field above is empty. Leave empty to get all."
+msgstr "Введите ID портфолио для исключения, через запятую. Оставьте пустым, чтобы получить все."
+
+# @ monolit-add-ons
+#: includes/vc_elements/portfolios_masonry.php:76
+#: includes/vc_elements/portfolios_masonry.php:85
+#: includes/vc_elements/portfolios_parallax.php:30
+#: includes/vc_elements/portfolios_parallax.php:39
+msgid "Order Portfolios by"
+msgstr "Упорядочить портфолио по"
+
+# @ monolit-add-ons
+#: includes/vc_elements/portfolios_masonry.php:91
+#: includes/vc_elements/portfolios_masonry.php:98
+#: includes/vc_elements/portfolios_parallax.php:45
+#: includes/vc_elements/portfolios_parallax.php:52
+msgid "Order Portfolios"
+msgstr "Упорядочить портфолио"
+
+# @ monolit-add-ons
+#: includes/vc_elements/portfolios_masonry.php:106
+#: includes/vc_elements/portfolios_parallax.php:60
+msgid "Number of portfolio items to show (-1 for all)."
+msgstr "Количество портфолио для отображения (-1 для все)."
+
+# @ monolit-add-ons
+#: includes/vc_elements/portfolios_masonry.php:116
+msgid "Columns Layout"
+msgstr "Макет колонок"
+
+# @ monolit-add-ons
+#: includes/vc_elements/portfolios_masonry.php:132
+msgid "Show Info"
+msgstr "Показать информацию"
+
+# @ monolit-add-ons
+#: includes/vc_elements/portfolios_masonry.php:135
+msgid "Show On Hover"
+msgstr "Показать при наведении"
+
+# @ monolit-add-ons
+#: includes/vc_elements/portfolios_masonry.php:179
+#: includes/vc_elements/portfolios_parallax.php:93
+msgid "Show Category"
+msgstr "Показать категорию"
+
+# @ monolit-add-ons
+#: includes/vc_elements/portfolios_masonry.php:206
+#: includes/vc_elements/portfolios_parallax.php:120
+msgid "Show View Project"
+msgstr "Показать Смотреть проект"
+
+# @ monolit-add-ons
+#: includes/vc_elements/portfolios_parallax.php:5
+msgid "Portfolios Parallax"
+msgstr "Параллакс для портфолио"
+
+# @ monolit-add-ons
+#: includes/vc_elements/portfolios_parallax.php:6
+msgid "Parallax layout of portfolio items"
+msgstr "Макет параллакса для портфолио"
+
+# @ monolit-add-ons
+#: includes/vc_elements/portfolios_parallax.php:15
+msgid "Portfolio Category IDs to include"
+msgstr "ID категорий портфолио для включения"
+
+# @ monolit-add-ons
+#: includes/vc_elements/portfolios_parallax.php:17
+msgid "Enter portfolio category ids to include, separated by a comma. Leave empty to get portfolios from all categories."
+msgstr "Введите ID категорий портфолио для включения, через запятую. Оставьте пустым, чтобы получить портфолио из всех категорий."
+
+# @ monolit-add-ons
+#: includes/vc_elements/portfolios_parallax.php:25
+msgid "Enter portfolio ids to show, separated by a comma."
+msgstr "Введите ID портфолио для отображения через запятую."
+
+# @ monolit-add-ons
+#: includes/vc_elements/portfolios_parallax.php:134
+msgid "View All Projects Link"
+msgstr "Ссылка Смотреть все проекты"
+
+# @ monolit-add-ons
+#: includes/vc_elements/post_title.php:5
+msgid "Post Title"
+msgstr "Название записи"
+
+# @ monolit-add-ons
+#: includes/vc_elements/post_title.php:6
+msgid "Portfolio title"
+msgstr "Заголовок портфолио"
+
+# @ monolit-add-ons
+#: includes/vc_elements/post_title.php:19
+msgid "Use 'section-title' for other style."
+msgstr "Используйте 'section-title' для другого стиля."
+
+# @ monolit-add-ons
+#: includes/vc_elements/services.php:5 includes/vc_elements/services.php:6
+msgid "Services Grid"
+msgstr "Сетка услуг"
+
+# @ monolit-add-ons
+#: includes/vc_elements/services.php:20
+msgid "Number of Services to show"
+msgstr "Количество услуг для отображения"
+
+# @ monolit-add-ons
+#: includes/vc_elements/services.php:25 includes/vc_elements/services.php:34
+#: includes/vc_elements/testimonials.php:25
+#: includes/vc_elements/testimonials.php:34
+#: includes/vc_elements/timelines.php:25 includes/vc_elements/timelines.php:34
+msgid "Order by"
+msgstr "Сортировать по"
+
+# @ monolit-add-ons
+#: includes/vc_elements/services.php:51
+msgid "Or Enter Service IDs"
+msgstr "Или введите ID услуг"
+
+# @ monolit-add-ons
+#: includes/vc_elements/services.php:53
+msgid "Enter Service ids to show, separated by a comma. (ex: 99,100)"
+msgstr "Введите идентификаторы услуг через запятую. (например: 99, 100)"
+
+# @ monolit-add-ons
+#: includes/vc_elements/services.php:62
+msgid "Pixel number. Which we are telling the browser is to move Services down every time we scroll down 100% of the viewport height and move Services up every time we scroll up 100% of the viewport height. Ex: 150 or -150 for reverse direction."
+msgstr "В пикселях. Мы говорим браузеру о том, как перемещать Услуги вниз каждый раз, когда мы прокручиваем вниз на 100% высоты области просмотра и перемещать Услуги вверх каждый раз, когда мы прокручиваем вверх на 100% высоты области просмотра. Пример: 150 или -150 для обратного направления."
+
+# @ monolit-add-ons
+#: includes/vc_elements/services.php:68
+msgid "Thumbnail Columns"
+msgstr "Количество колонок миниатюр"
+
+# @ monolit-add-ons
+#: includes/vc_elements/services.php:88
+msgid "Service Content Width"
+msgstr "Ширина контента услуги"
+
+# @ monolit-add-ons
+#: includes/vc_elements/services.php:97 includes/vc_elements/timelines.php:79
+#: includes/vc_elements/timelines.php:102
+msgid "2/3"
+msgstr "2/3"
+
+# @ monolit-add-ons
+#: includes/vc_elements/services.php:98 includes/vc_elements/timelines.php:80
+#: includes/vc_elements/timelines.php:103
+msgid "3/4"
+msgstr "3/4"
+
+# @ monolit-add-ons
+#: includes/vc_elements/services.php:99 includes/vc_elements/timelines.php:81
+#: includes/vc_elements/timelines.php:104
+msgid "5/6"
+msgstr "5/6"
+
+# @ monolit-add-ons
+#: includes/vc_elements/skills_bar.php:5
+msgid "Skills Bar"
+msgstr "Панель навыков"
+
+# @ monolit-add-ons
+#: includes/vc_elements/skills_bar.php:6
+msgid "Animated skills bar"
+msgstr "Анимированная панель навыков"
+
+# @ monolit-add-ons
+#: includes/vc_elements/skills_bar.php:15
+msgid "Widget Title"
+msgstr "Заголовок виджета"
+
+# @ monolit-add-ons
+#: includes/vc_elements/skills_bar.php:23
+msgid "Values"
+msgstr "Значения"
+
+# @ monolit-add-ons
+#: includes/vc_elements/skills_bar.php:26
+msgid "Enter values for graph - value, title and color."
+msgstr "Введите значения для графика - значение, название и цвет."
+
+# @ monolit-add-ons
+#: includes/vc_elements/skills_bar.php:29
+msgid "Photoshop"
+msgstr "Photoshop"
+
+# @ monolit-add-ons
+#: includes/vc_elements/skills_bar.php:33
+msgid "Illustrator"
+msgstr "Illustrator"
+
+# @ monolit-add-ons
+#: includes/vc_elements/skills_bar.php:37
+msgid "3D MAX"
+msgstr "3D MAX"
+
+# @ monolit-add-ons
+#: includes/vc_elements/skills_bar.php:45
+msgid "Label"
+msgstr "Надпись"
+
+# @ monolit-add-ons
+#: includes/vc_elements/skills_bar.php:47
+msgid "Enter text used as title of bar."
+msgstr "Введите текст, используемый в качестве заголовка панели."
+
+# @ monolit-add-ons
+#: includes/vc_elements/skills_bar.php:54
+msgid "Enter value of bar."
+msgstr "Введите значение для панели."
+
+# @ monolit-add-ons
+#: includes/vc_elements/testimonials.php:5
+msgid "Testimonial Slider"
+msgstr "Слайдер отзывов"
+
+# @ monolit-add-ons
+#: includes/vc_elements/testimonials.php:6
+msgid "Testimonail Slider"
+msgstr "Слайдер отзывов"
+
+# @ monolit-add-ons
+#: includes/vc_elements/testimonials.php:20
+msgid "Number of testimonials to show"
+msgstr "Количество отзывов для отображения"
+
+# @ monolit-add-ons
+#: includes/vc_elements/testimonials.php:51
+msgid "Or Enter Testimonial IDs"
+msgstr "Или введите ID отзывов"
+
+# @ monolit-add-ons
+#: includes/vc_elements/testimonials.php:53
+msgid "Enter testimonial ids to show, separated by a comma. (ex: 99,100)"
+msgstr "Введите ID отзывов для отображения через запятую. (например: 99, 100)"
+
+# @ monolit-add-ons
+#: includes/vc_elements/testimonials.php:58
+msgid "Show Avatar"
+msgstr "Показать аватар"
+
+# @ monolit-add-ons
+#: includes/vc_elements/testimonials.php:66
+msgid "Show avatar"
+msgstr "Показать аватар"
+
+# @ monolit-add-ons
+#: includes/vc_elements/timelines.php:5
+msgid "Timeline List"
+msgstr "Хронологии"
+
+# @ monolit-add-ons
+#: includes/vc_elements/timelines.php:6
+msgid "Timeline list"
+msgstr "Хронологии"
+
+# @ monolit-add-ons
+#: includes/vc_elements/timelines.php:20
+msgid "Number of Timelines to show"
+msgstr "Количество хронологий для отображения"
+
+# @ monolit-add-ons
+#: includes/vc_elements/timelines.php:51
+msgid "Or Enter Timeline IDs"
+msgstr "Или введите ID хронологии"
+
+# @ monolit-add-ons
+#: includes/vc_elements/timelines.php:53
+msgid "Enter Timeline ids to show, separated by a comma. (ex: 99,100)"
+msgstr "Введите идентификаторы хронологий через запятую. (например: 99, 100)"
+
+# @ monolit-add-ons
+#: includes/vc_elements/timelines.php:62
+msgid "Pixel number. Which we are telling the browser is to move Timelines down every time we scroll down 100% of the viewport height and move Timelines up every time we scroll up 100% of the viewport height. Ex: 150 or -150 for reverse direction."
+msgstr "В пикселях. Мы говорим браузеру о том, как перемещать Хронологии вниз каждый раз, когда мы прокручиваем вниз на 100% высоты области просмотра и перемещать Хронологии вверх каждый раз, когда мы прокручиваем вверх на 100% высоты области просмотра. Пример: 150 или -150 для обратного направления."
+
+# @ monolit-add-ons
+#: includes/vc_elements/timelines.php:68
+msgid "Left Columns"
+msgstr "Левые колонки"
+
+# @ monolit-add-ons
+#: includes/vc_elements/timelines.php:91
+msgid "Right Columns"
+msgstr "Правые колонки"
+
+# @ monolit-add-ons
+#. translators: plugin header field 'Name'
+#: monolit-add-ons.php:0
+msgid "Monolit Add-Ons"
+msgstr "Дополнения Monolit"
+
+# @ monolit-add-ons
+#. translators: plugin header field 'PluginURI'
+#: monolit-add-ons.php:0
+msgid "https://demowp.cththemes.net/monolit/"
+msgstr "https://demowp.cththemes.net/monolit/"
+
+# @ monolit-add-ons
+#. translators: plugin header field 'Description'
+#: monolit-add-ons.php:0
+msgid "A custom plugin for Monolit - Creative Responsive Architecture WordPress Theme"
+msgstr "Плагин для темы Monolit"
+
+# @ monolit-add-ons
+#. translators: plugin header field 'AuthorURI'
+#: monolit-add-ons.php:0
+msgid "http://themeforest.net/user/cththemes"
+msgstr "http://themeforest.net/user/cththemes"
+
+# @ monolit-add-ons
+#. translators: plugin header field 'Version'
+#: monolit-add-ons.php:0
+msgid "1.9.7"
+msgstr "1.9.7"
+
+# @ monolit-add-ons
+#: posttypes/cpt-footer.php:10 posttypes/cpt-footer.php:11
+msgid "Monolit Footer"
+msgstr "Футер Monolit"
+
+# @ monolit-add-ons
+#: posttypes/cpt-footer.php:12 posttypes/cpt-footer.php:13
+msgid "Add New Monolit Footer"
+msgstr "Добавить новый футер"
+
+# @ monolit-add-ons
+#: posttypes/cpt-footer.php:14
+msgid "Edit Monolit Footer"
+msgstr "Редактировать футер"
+
+# @ monolit-add-ons
+#: posttypes/cpt-footer.php:15
+msgid "New Monolit Footer"
+msgstr "Добавить новый футер"
+
+# @ monolit-add-ons
+#: posttypes/cpt-footer.php:16
+msgid "View Monolit Footer"
+msgstr "Просмотреть футер"
+
+# @ monolit-add-ons
+#: posttypes/cpt-footer.php:17
+msgid "Search Monolit Footers"
+msgstr "Искать футер"
+
+# @ monolit-add-ons
+#: posttypes/cpt-footer.php:18
+msgid "No Monolit Footers found"
+msgstr "Футеры не найдены"
+
+# @ monolit-add-ons
+#: posttypes/cpt-footer.php:19
+msgid "No Monolit Footers found in Trash"
+msgstr "Корзина пуста"
+
+# @ monolit-add-ons
+#: posttypes/cpt-footer.php:20
+msgid "Parent Monolit Footer:"
+msgstr "Родительский футер:"
+
+# @ monolit-add-ons
+#: posttypes/cpt-footer.php:21
+msgid "Monolit Footers"
+msgstr "Футеры Monolit"
+
+# @ monolit-add-ons
+#: posttypes/cpt-footer.php:27
+msgid "List Monolit Footers"
+msgstr "Список футеров Monolit"
+
+# @ monolit-add-ons
+#: posttypes/cpt-footer.php:50 posttypes/cpt-header.php:50
+#: posttypes/cpt-members.php:79 posttypes/cpt-portfolio.php:138
+#: posttypes/cpt-project.php:95 posttypes/cpt-service.php:66
+#: posttypes/cpt-testimonial.php:62 posttypes/cpt-timeline.php:66
+msgid "Thumbnail"
+msgstr "Миниатюра"
+
+# @ monolit-add-ons
+#: posttypes/cpt-header.php:10 posttypes/cpt-header.php:11
+msgid "Monolit Header"
+msgstr "Шапка Monolit"
+
+# @ monolit-add-ons
+#: posttypes/cpt-header.php:12 posttypes/cpt-header.php:13
+msgid "Add New Monolit Header"
+msgstr "Добавить новую шапку"
+
+# @ monolit-add-ons
+#: posttypes/cpt-header.php:14
+msgid "Edit Monolit Header"
+msgstr "Редактировать шапку"
+
+# @ monolit-add-ons
+#: posttypes/cpt-header.php:15
+msgid "New Monolit Header"
+msgstr "Новая шапка"
+
+# @ monolit-add-ons
+#: posttypes/cpt-header.php:16
+msgid "View Monolit Header"
+msgstr "Просмотреть шапку"
+
+# @ monolit-add-ons
+#: posttypes/cpt-header.php:17
+msgid "Search Monolit Headers"
+msgstr "Поиск шапки"
+
+# @ monolit-add-ons
+#: posttypes/cpt-header.php:18
+msgid "No Monolit Headers found"
+msgstr "Шапки не найдены"
+
+# @ monolit-add-ons
+#: posttypes/cpt-header.php:19
+msgid "No Monolit Headers found in Trash"
+msgstr "Корзина пуста"
+
+# @ monolit-add-ons
+#: posttypes/cpt-header.php:20
+msgid "Parent Monolit Header:"
+msgstr "Родительская шапка:"
+
+# @ monolit-add-ons
+#: posttypes/cpt-header.php:21
+msgid "Monolit Headers"
+msgstr "Шапки Monolit"
+
+# @ monolit-add-ons
+#: posttypes/cpt-header.php:27
+msgid "List Monolit Headers"
+msgstr "Список шапок Monolit"
+
+# @ monolit-add-ons
+#: posttypes/cpt-members.php:39
+msgid "Members"
+msgstr "Сотрудники"
+
+# @ monolit-add-ons
+#: posttypes/cpt-members.php:40
+msgid "Cth_Member"
+msgstr "Cth_Member"
+
+# @ monolit-add-ons
+#: posttypes/cpt-members.php:41 posttypes/cpt-members.php:42
+msgid "Add New Member"
+msgstr "Добавить сотрудника"
+
+# @ monolit-add-ons
+#: posttypes/cpt-members.php:43
+msgid "Edit Member"
+msgstr "Редактировать сотрудника"
+
+# @ monolit-add-ons
+#: posttypes/cpt-members.php:44
+msgid "New Member"
+msgstr "Новый сотрудник"
+
+# @ monolit-add-ons
+#: posttypes/cpt-members.php:45
+msgid "View Member"
+msgstr "Просмотр сотрудника"
+
+# @ monolit-add-ons
+#: posttypes/cpt-members.php:46
+msgid "Search Members"
+msgstr "Поиск сотрудников"
+
+# @ monolit-add-ons
+#: posttypes/cpt-members.php:47
+msgid "No Members found"
+msgstr "Сотрудники не найдены"
+
+# @ monolit-add-ons
+#: posttypes/cpt-members.php:48
+msgid "No Members found in Trash"
+msgstr "Корзина пуста"
+
+# @ monolit-add-ons
+#: posttypes/cpt-members.php:49
+msgid "Parent Member:"
+msgstr "Родительский сотрудник:"
+
+# @ monolit-add-ons
+#: posttypes/cpt-members.php:50
+msgid "Monolit Members"
+msgstr "Сотрудники"
+
+# @ monolit-add-ons
+#: posttypes/cpt-members.php:69
+msgid "monolit_member"
+msgstr "monolit_member"
+
+# @ monolit-add-ons
+#: posttypes/cpt-plans.php:21 posttypes/cpt-plans.php:22
+msgid "Plan"
+msgstr "Тариф"
+
+# @ monolit-add-ons
+#: posttypes/cpt-plans.php:23 posttypes/cpt-plans.php:24
+msgid "Add New Plan"
+msgstr "Добавить новый тариф"
+
+# @ monolit-add-ons
+#: posttypes/cpt-plans.php:25
+msgid "Edit Plan"
+msgstr "Редактировать тариф"
+
+# @ monolit-add-ons
+#: posttypes/cpt-plans.php:26
+msgid "New Plan"
+msgstr "Новый тариф"
+
+# @ monolit-add-ons
+#: posttypes/cpt-plans.php:27
+msgid "View Plan"
+msgstr "Просмотреть тариф"
+
+# @ monolit-add-ons
+#: posttypes/cpt-plans.php:28
+msgid "Search Plans"
+msgstr "Искать тарифы"
+
+# @ monolit-add-ons
+#: posttypes/cpt-plans.php:29
+msgid "No Plans found"
+msgstr "Тарифы не найдены"
+
+# @ monolit-add-ons
+#: posttypes/cpt-plans.php:30
+msgid "No Plans found in Trash"
+msgstr "Корзина пуста"
+
+# @ monolit-add-ons
+#: posttypes/cpt-plans.php:31
+msgid "Parent Plan:"
+msgstr "Основной тариф:"
+
+# @ monolit-add-ons
+#: posttypes/cpt-plans.php:32
+msgid "Listing Plans"
+msgstr "Тарифы"
+
+# @ monolit-add-ons
+#: posttypes/cpt-plans.php:52
+msgid "plan"
+msgstr "plan"
+
+# @ monolit-add-ons
+#: posttypes/cpt-plans.php:63 posttypes/cpt-project.php:94
+msgid "Price"
+msgstr "Цена"
+
+# @ monolit-add-ons
+#: posttypes/cpt-plans.php:64
+msgid "Subscribes Count"
+msgstr "Количество подписчиков"
+
+# @ monolit-add-ons
+#: posttypes/cpt-plans.php:104 posttypes/cpt-testimonial.php:121
+msgid "Add Social"
+msgstr "Добавить социальную сеть"
+
+# @ monolit-add-ons
+#: posttypes/cpt-plans.php:148
+msgid "Invalid create stripe form"
+msgstr "Недопустимая форма Stripe"
+
+# @ monolit-add-ons
+#: posttypes/cpt-plans.php:164
+msgid "Invalid listing plan ID"
+msgstr "Неверный ID тарифа"
+
+# @ monolit-add-ons
+#: posttypes/cpt-plans.php:195
+msgid "There is something wrong. Please try again."
+msgstr "Что-то не так. Попробуйте еще раз."
+
+# @ monolit-add-ons
+#: posttypes/cpt-plans.php:220
+msgid "Icon"
+msgstr "Иконка"
+
+# @ monolit-add-ons
+#: posttypes/cpt-portfolio.php:50 posttypes/cpt-portfolio.php:51
+msgid "Portfolio"
+msgstr "Портфолио"
+
+# @ monolit-add-ons
+#: posttypes/cpt-portfolio.php:52 posttypes/cpt-portfolio.php:53
+msgid "Add New Portfolio"
+msgstr "Добавить новое портфолио"
+
+# @ monolit-add-ons
+#: posttypes/cpt-portfolio.php:54
+msgid "Edit Portfolio"
+msgstr "Редактировать портфолио"
+
+# @ monolit-add-ons
+#: posttypes/cpt-portfolio.php:55
+msgid "New Portfolio"
+msgstr "Новое портфолио"
+
+# @ monolit-add-ons
+#: posttypes/cpt-portfolio.php:56
+msgid "View Portfolio"
+msgstr "Просмотр портфолио"
+
+# @ monolit-add-ons
+#: posttypes/cpt-portfolio.php:57
+msgid "Search Portfolios"
+msgstr "Поиск портфолио"
+
+# @ monolit-add-ons
+#: posttypes/cpt-portfolio.php:58
+msgid "No Portfolios found"
+msgstr "Нет портфолио"
+
+# @ monolit-add-ons
+#: posttypes/cpt-portfolio.php:59
+msgid "No Portfolios found in Trash"
+msgstr "Корзина пуста"
+
+# @ monolit-add-ons
+#: posttypes/cpt-portfolio.php:60
+msgid "Parent Portfolio:"
+msgstr "Родительское портфолио:"
+
+# @ monolit-add-ons
+#: posttypes/cpt-portfolio.php:61
+msgid "Monolit Portfolios"
+msgstr "Портфолио"
+
+# @ monolit-add-ons
+#: posttypes/cpt-portfolio.php:81
+msgid "portfolio"
+msgstr "portfolio"
+
+# @ monolit-add-ons
+#: posttypes/cpt-portfolio.php:90 posttypes/cpt-portfolio.php:100
+msgid "Categories"
+msgstr "Категории"
+
+# @ monolit-add-ons
+#: posttypes/cpt-portfolio.php:91 posttypes/cpt-project.php:57
+msgid "Category"
+msgstr "Категория"
+
+# @ monolit-add-ons
+#: posttypes/cpt-portfolio.php:92 posttypes/cpt-project.php:58
+msgid "Search Categories"
+msgstr "Поиск категорий"
+
+# @ monolit-add-ons
+#: posttypes/cpt-portfolio.php:93 posttypes/cpt-project.php:59
+msgid "All Categories"
+msgstr "Все категории"
+
+# @ monolit-add-ons
+#: posttypes/cpt-portfolio.php:94 posttypes/cpt-project.php:60
+msgid "Parent Category"
+msgstr "Родительская категория"
+
+# @ monolit-add-ons
+#: posttypes/cpt-portfolio.php:95 posttypes/cpt-project.php:61
+msgid "Parent Category:"
+msgstr "Родительская категория:"
+
+# @ monolit-add-ons
+#: posttypes/cpt-portfolio.php:96 posttypes/cpt-project.php:62
+msgid "Edit Category"
+msgstr "Изменить категорию"
+
+# @ monolit-add-ons
+#: posttypes/cpt-portfolio.php:97 posttypes/cpt-project.php:63
+msgid "Update Category"
+msgstr "Обновить категорию"
+
+# @ monolit-add-ons
+#: posttypes/cpt-portfolio.php:98 posttypes/cpt-project.php:64
+msgid "Add New Category"
+msgstr "Добавить новую категорию"
+
+# @ monolit-add-ons
+#: posttypes/cpt-portfolio.php:99 posttypes/cpt-project.php:65
+msgid "New Category Name"
+msgstr "Название новой категории"
+
+# @ monolit-add-ons
+#: posttypes/cpt-portfolio.php:111
+msgid "portfolio_cat"
+msgstr "portfolio_cat"
+
+# @ monolit-add-ons
+#: posttypes/cpt-portfolio.php:159
+msgctxt "portfolio url slug"
+msgid "portfolio"
+msgstr "portfolio"
+
+# @ monolit-add-ons
+#: posttypes/cpt-project.php:7 posttypes/cpt-project.php:8
+msgid "Monolit Project"
+msgstr "Проект"
+
+# @ monolit-add-ons
+#: posttypes/cpt-project.php:9 posttypes/cpt-project.php:10
+msgid "Add New Project"
+msgstr "Добавить новый проект"
+
+# @ monolit-add-ons
+#: posttypes/cpt-project.php:11
+msgid "Edit Project"
+msgstr "Редактировать проект"
+
+# @ monolit-add-ons
+#: posttypes/cpt-project.php:12
+msgid "New Project"
+msgstr "Новый проект"
+
+# @ monolit-add-ons
+#: posttypes/cpt-project.php:13
+msgid "View Project"
+msgstr "Просмотр проекта"
+
+# @ monolit-add-ons
+#: posttypes/cpt-project.php:14
+msgid "Search Projects"
+msgstr "Поиск проектов"
+
+# @ monolit-add-ons
+#: posttypes/cpt-project.php:15
+msgid "No Menus found"
+msgstr "Меню не найдено"
+
+# @ monolit-add-ons
+#: posttypes/cpt-project.php:16
+msgid "No Projects found in Trash"
+msgstr "Корзина пуста"
+
+# @ monolit-add-ons
+#: posttypes/cpt-project.php:17
+msgid "Parent Projects:"
+msgstr "Родительские проекты:"
+
+# @ monolit-add-ons
+#: posttypes/cpt-project.php:18
+msgid "Monolit Projects"
+msgstr "Проекты"
+
+# @ monolit-add-ons
+#: posttypes/cpt-project.php:38
+msgid "project"
+msgstr "проект"
+
+# @ monolit-add-ons
+#: posttypes/cpt-project.php:56 posttypes/cpt-project.php:66
+msgid "Project Categories"
+msgstr "Категории проектов"
+
+# @ monolit-add-ons
+#: posttypes/cpt-project.php:78
+msgid "project_cat"
+msgstr "project_cat"
+
+# @ monolit-add-ons
+#: posttypes/cpt-service.php:25 posttypes/cpt-service.php:26
+msgid "Service"
+msgstr "Услуга"
+
+# @ monolit-add-ons
+#: posttypes/cpt-service.php:27 posttypes/cpt-service.php:28
+msgid "Add New Service"
+msgstr "Добавить новую услугу"
+
+# @ monolit-add-ons
+#: posttypes/cpt-service.php:29
+msgid "Edit Service"
+msgstr "Редактировать услугу"
+
+# @ monolit-add-ons
+#: posttypes/cpt-service.php:30
+msgid "New Service"
+msgstr "Новая услуга"
+
+# @ monolit-add-ons
+#: posttypes/cpt-service.php:31
+msgid "View Service"
+msgstr "Посмотреть услугу"
+
+# @ monolit-add-ons
+#: posttypes/cpt-service.php:32
+msgid "Search Services"
+msgstr "Поиск услуги"
+
+# @ monolit-add-ons
+#: posttypes/cpt-service.php:33
+msgid "No Services found"
+msgstr "Услуги не найдены"
+
+# @ monolit-add-ons
+#: posttypes/cpt-service.php:34
+msgid "No Services found in Trash"
+msgstr "Корзина пуста"
+
+# @ monolit-add-ons
+#: posttypes/cpt-service.php:35
+msgid "Parent Service:"
+msgstr "Родительская услуга:"
+
+# @ monolit-add-ons
+#: posttypes/cpt-service.php:36
+msgid "Monolit Services"
+msgstr "Услуги"
+
+# @ monolit-add-ons
+#: posttypes/cpt-service.php:55
+msgid "monolit_service"
+msgstr "monolit_service"
+
+# @ monolit-add-ons
+#: posttypes/cpt-testimonial.php:21
+msgid "Testimonials"
+msgstr "Отзывы"
+
+# @ monolit-add-ons
+#: posttypes/cpt-testimonial.php:22
+msgid "Testimonial"
+msgstr "Отзыв"
+
+# @ monolit-add-ons
+#: posttypes/cpt-testimonial.php:23 posttypes/cpt-testimonial.php:24
+msgid "Add New Testimonial"
+msgstr "Добавить отзыв"
+
+# @ monolit-add-ons
+#: posttypes/cpt-testimonial.php:25
+msgid "Edit Testimonial"
+msgstr "Редактировать отзыв"
+
+# @ monolit-add-ons
+#: posttypes/cpt-testimonial.php:26
+msgid "New Testimonial"
+msgstr "Новый отзыв"
+
+# @ monolit-add-ons
+#: posttypes/cpt-testimonial.php:27
+msgid "View Testimonial"
+msgstr "Просмотр отзыва"
+
+# @ monolit-add-ons
+#: posttypes/cpt-testimonial.php:28
+msgid "Search Testimonials"
+msgstr "Искать отзывы"
+
+# @ monolit-add-ons
+#: posttypes/cpt-testimonial.php:29
+msgid "No Testimonials found"
+msgstr "Отзывы не найдены"
+
+# @ monolit-add-ons
+#: posttypes/cpt-testimonial.php:30
+msgid "No Testimonials found in Trash"
+msgstr "Корзина пуста"
+
+# @ monolit-add-ons
+#: posttypes/cpt-testimonial.php:31
+msgid "Parent Testimonial:"
+msgstr "Родительский отзыв:"
+
+# @ monolit-add-ons
+#: posttypes/cpt-testimonial.php:32
+msgid "Monolit Testimonials"
+msgstr "Отзывы"
+
+# @ monolit-add-ons
+#: posttypes/cpt-testimonial.php:38
+msgid "List Testimonials"
+msgstr "Список отзывов"
+
+# @ monolit-add-ons
+#: posttypes/cpt-testimonial.php:51
+msgid "cth_testimonial"
+msgstr "cth_testimonial"
+
+# @ monolit-add-ons
+#: posttypes/cpt-testimonial.php:61
+msgid "Rating"
+msgstr "Оценка"
+
+# @ monolit-add-ons
+#: posttypes/cpt-testimonial.php:91
+msgid "Not Rated"
+msgstr "Нет оценок"
+
+# @ monolit-add-ons
+#: posttypes/cpt-timeline.php:25 posttypes/cpt-timeline.php:26
+msgid "Timeline"
+msgstr "Хронология"
+
+# @ monolit-add-ons
+#: posttypes/cpt-timeline.php:27 posttypes/cpt-timeline.php:28
+msgid "Add New Timeline"
+msgstr "Добавить новую хронологию"
+
+# @ monolit-add-ons
+#: posttypes/cpt-timeline.php:29
+msgid "Edit Timeline"
+msgstr "Редактировать хронологию"
+
+# @ monolit-add-ons
+#: posttypes/cpt-timeline.php:30
+msgid "New Timeline"
+msgstr "Новая хронология"
+
+# @ monolit-add-ons
+#: posttypes/cpt-timeline.php:31
+msgid "View Timeline"
+msgstr "Просмотр хронологии"
+
+# @ monolit-add-ons
+#: posttypes/cpt-timeline.php:32
+msgid "Search Timelines"
+msgstr "Поиск хронологий"
+
+# @ monolit-add-ons
+#: posttypes/cpt-timeline.php:33
+msgid "No Timelines found"
+msgstr "Хронологии не найдены"
+
+# @ monolit-add-ons
+#: posttypes/cpt-timeline.php:34
+msgid "No Timelines found in Trash"
+msgstr "Корзина пуста"
+
+# @ monolit-add-ons
+#: posttypes/cpt-timeline.php:35
+msgid "Parent Timeline:"
+msgstr "Родительская хронология:"
+
+# @ monolit-add-ons
+#: posttypes/cpt-timeline.php:36
+msgid "Monolit Timelines"
+msgstr "Хронологии"
+
+# @ monolit-add-ons
+#: posttypes/cpt-timeline.php:55
+msgid "monolit_timeline"
+msgstr "monolit_timeline"
+
+# @ monolit-add-ons
+#: posttypes/tax-meta/category_metabox_fields.php:22
+#: posttypes/tax-meta/category_metabox_fields.php:75
+#: posttypes/tax-meta/portfolio_cat_metabox_fields.php:23
+#: posttypes/tax-meta/portfolio_cat_metabox_fields.php:68
+#: posttypes/tax-meta/tag_metabox_fields.php:22
+#: posttypes/tax-meta/tag_metabox_fields.php:76
+msgid "Show Header Section"
+msgstr "Показать область шапки"
+
+# @ monolit-add-ons
+#: posttypes/tax-meta/category_metabox_fields.php:32
+#: posttypes/tax-meta/category_metabox_fields.php:86
+msgid "Show Category Info"
+msgstr "Показать категорию"
+
+# @ monolit-add-ons
+#: posttypes/tax-meta/tag_metabox_fields.php:32
+#: posttypes/tax-meta/tag_metabox_fields.php:87
+msgid "Show Tag Info"
+msgstr "Показать теги"
+
+# @ monolit-add-ons
+#: vc_templates/members_parallax.php:130
+msgid "<span>View More</span><i class=\"fa fa-long-arrow-right\"></i>"
+msgstr "<span>Подробнее</span><i class=\"fa fa-long-arrow-right\"></i>"
+
+# @ monolit-add-ons
+#: vc_templates/monolit_portfolios_parallax.php:153
+msgid "<span>View Project</span><i class=\"fa fa-long-arrow-right\"></i>"
+msgstr "<span>Смотреть проект</span><i class=\"fa fa-long-arrow-right\"></i>"
+
+# @ monolit-add-ons
+#: vc_templates/monolit_portfolios_parallax.php:170
+msgid "<span>View All Projects</span><i class=\"fa fa-long-arrow-right\"></i>"
+msgstr "<span>Посмотреть все проекты</span><i class=\"fa fa-long-arrow-right\"></i>"
+
+# @ monolit-add-ons
+#: vc_templates/portfolio_nav.php:38
+msgctxt "Project previous link"
+msgid "Previous Project"
+msgstr "Предыдущий проект"
+
+# @ monolit-add-ons
+#: vc_templates/portfolio_nav.php:44
+msgctxt "Project next link"
+msgid "Next Project"
+msgstr "Следующий проект"
+
+# @ monolit-add-ons
+#: vc_templates/portfolios_masonry.php:118
+msgid "All"
+msgstr "Все"
+
+# @ monolit-add-ons
+#: vc_templates/vc_row.php:301 vc_templates/vc_row.php:415
+msgid "<span>More information</span><i class=\"fa fa-eye\"></i>"
+msgstr "<span>Дополнительная информация</span><i class=\"fa fa-eye\"></i>"
+
+# @ monolit-add-ons
+#: vc_templates/vc_row.php:303 vc_templates/vc_row.php:417
+#: vc_templates/vc_row.php:526
+msgid "Show thumbnails"
+msgstr "Отображать миниатюры"
+
+# @ monolit-add-ons
+#: vc_templates/vc_row.php:303 vc_templates/vc_row.php:417
+#: vc_templates/vc_row.php:526
+msgid "Hide thumbnails"
+msgstr "Скрыть миниатюры"
+
+# @ monolit-add-ons
+#: vc_templates/vc_row.php:527
+msgid " info"
+msgstr " подробнее"
+
+# @ monolit-add-ons
+#: vc_templates/vc_row.php:581 vc_templates/vc_row.php:709
+msgid "Info"
+msgstr "Информация"
+
+# @ monolit-add-ons
+#: vc_templates/vc_row.php:645 vc_templates/vc_row.php:771
+#: vc_templates/vc_row.php:830
+msgid "More info"
+msgstr "Больше информации"
+
+# @ monolit-add-ons
+#: widgets/recent-posts.php:26
+msgid "Your site&#8217;s most recent Posts."
+msgstr "Последние записи с вашего сайта."
+
+# @ monolit-add-ons
+#: widgets/recent-posts.php:27 widgets/recent-posts.php:46
+msgid "Monolit Recent Posts"
+msgstr "Monolit Недавние записи"
+
+# @ monolit-add-ons
+#: widgets/recent-posts.php:136
+msgid "Title:"
+msgstr "Заголовок:"
+
+# @ monolit-add-ons
+#: widgets/recent-posts.php:139
+msgid "Number of posts to show:"
+msgstr "Количество записей для отображения:"
+
+# @ monolit-add-ons
+#: widgets/recent-posts.php:143
+msgid "Display post thumbnail?"
+msgstr "Отображать миниатюру записи?"
+
+# @ monolit-add-ons
+#: widgets/recent-posts.php:146
+msgid "Display post date?"
+msgstr "Отображать дату публикации?"
